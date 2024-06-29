@@ -13,4 +13,9 @@ It compares the behaviors of annual members and casual riders and provides insig
   
 Business Task: Analyze historical bike data to understand how annual members and casual riders use Cyclistic bike differently with the intention of designing marketing strategies to convert casual riders into annual members.
 
+There were three questions that we had to focus on:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
 
