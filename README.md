@@ -10,4 +10,7 @@ It compares the behaviors of annual members and casual riders and provides insig
 
 -   **Data Analysis**: Using BigQuery, I analyzed Cyclistic's bike usage data to uncover patterns and trends between annual members and casual riders.
 -   **Visualization**: I used Tableau to create interactive dashboards that visually represent key insights and findings.
+  
+Business Task: Analyze historical bike data to understand how annual members and casual riders use Cyclistic bike differently with the intention of designing marketing strategies to convert casual riders into annual members.
+
 
