@@ -13,10 +13,20 @@ It compares the behaviors of annual members and casual riders and provides insig
   
 Business Task: Analyze historical bike data to understand how annual members and casual riders use Cyclistic bike differently with the intention of designing marketing strategies to convert casual riders into annual members.
 
+
 There were three questions that I had to focus on:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
+## Monthly Analysis
+
+Visualized seasonal trends to show peak usage during spring to late summer, this suggests higher demand during warmer months. 
+
+## Average Duration and Distance
+
+Casual users have longer average ride duration compared to members. Indicating they may be using bikes for leisure or exploration. Both user types share an average of a little over 1 mile in distance per ride, suggesting similar travel distances. 
+
+Link to [Tableau Dashboard with all visuals](https://public.tableau.com/views/CyclisticCaseStudyCapstone_17196371711750/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
