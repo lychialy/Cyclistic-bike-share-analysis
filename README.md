@@ -27,6 +27,8 @@ There were three questions that I had to focus on:
 ### Monthly Analysis
 
 Visualized seasonal trends to show peak usage during spring to late summer, this suggests higher demand during warmer months. 
+![Monthly Analysis](https://github.com/lychialy/Cyclistic-bike-share-analysis/blob/main/2024-07-01.png?raw=true)
+
 
 ### Average Duration and Distance
 
