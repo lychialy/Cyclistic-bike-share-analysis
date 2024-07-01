@@ -16,17 +16,31 @@ Business Task: Analyze historical bike data to understand how annual members and
 
 There were three questions that I had to focus on:
 1. How do annual members and casual riders use Cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
+   Casual riders seemed to use bikes for recreational purposes or occasional commutes, while members might use them for more regular commuting and daily activites.
+   
+3. Why would casual riders buy Cyclistic annual memberships?
+   Casual riders may find annual memberships more appealing due to cost savings over time, if they use the bikes frequently. The appeal of unlimited rides, access to bikes at anytime, and not needing to worry about bike maintenace. 
+   
+5. How can Cyclistic use digital media to influence casual riders to become members?
+   Cyclistic could leverage digital media by promoting the finacial benefits and the convenience of annual memberships. They could run ads for positive impacts of bike riding, they can emphasize how beneficial it is for the the environment and body(these advantages could entice more users) 
 
-## Monthly Analysis
+### Monthly Analysis
 
 Visualized seasonal trends to show peak usage during spring to late summer, this suggests higher demand during warmer months. 
 
-## Average Duration and Distance
+### Average Duration and Distance
 
 Casual users have longer average ride duration compared to members. Indicating they may be using bikes for leisure or exploration. Both user types share an average of a little over 1 mile in distance per ride, suggesting similar travel distances. 
 
+### Rideable Bike Type Analysis
+
+Found classic bikes as the most used among customers, followed by electric bikes, and then docked bikes. Knowing this helps with managing inventory and maintenance. Understanding which bike types are most utilized provides valuable insights into customer preferences and marketing strategies.
+
 Link to [Tableau Dashboard with all visuals](https://public.tableau.com/views/CyclisticCaseStudyCapstone_17196371711750/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+## Next Steps
+
+Based on these insights, Cyclistic should continue to analyze user behaviour and preferences to improve its bike-share services before any vital changes or major commitments. It's crucial to gather additional data to make informed decisions, that will ensure that any future strategies are well-founded and aligned to customer needs. 
+
 
 
