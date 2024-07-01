@@ -1,1 +1,54 @@
-This project includes several SQL queries used for data analysis. Below are descriptions of each query and their purpose. 
+This project includes several SQL queries used for my data analysis. Below are descriptions of each query and their purpose. 
+
+### Cleaned null values in my table.
+CREATE OR REPLACE TABLE `cyclisticcasestudy.bike_rides_all_months_clean` AS
+SELECT 
+    *
+FROM 
+    `cyclisticcasestudy.bike_rides_all_months`
+WHERE 
+    start_station_name IS NOT NULL 
+    AND end_station_name IS NOT NULL
+    AND started_at IS NOT NULL 
+    AND ended_at IS NOT NULL;
+
+### Creating table for day of week analysis
+CREATE TABLE `cyclisticcasestudy.day_of_week_analysis` AS
+SELECT 
+    EXTRACT(DAYOFWEEK FROM started_at) AS day_of_week,
+    COUNT(*) AS ride_count
+FROM 
+    `cyclisticcasestudy.bike_rides_all_months_clean`
+GROUP BY 
+    day_of_week
+ORDER BY 
+    day_of_week;
+
+### Creating the Rideable Bike type table
+CREATE TABLE `cyclisticcasestudy.rideable_type_analysis` AS
+SELECT 
+    rideable_type,
+    COUNT(*) AS ride_count
+FROM 
+    `cyclisticcasestudy.bike_rides_all_months_clean`
+GROUP BY 
+    rideable_type
+ORDER BY 
+    ride_count DESC;
+
+### Creating user type average distance and duration table 
+CREATE OR REPLACE TABLE `cyclisticcasestudy.avg_duration_distance_user_type` AS
+SELECT 
+    member_casual,
+    AVG(TIMESTAMP_DIFF(end_time, start_time, SECOND)) / 60 AS avg_ride_duration_minutes,
+    AVG(3959 * ACOS(
+        LEAST(GREATEST(
+            COS(start_lat * 3.141592653589793 / 180) * COS(end_lat * 3.141592653589793 / 180) *
+            COS((end_lng - start_lng) * 3.141592653589793 / 180) +
+            SIN(start_lat * 3.141592653589793 / 180) * SIN(end_lat * 3.141592653589793 / 180)
+        , -1), 1)
+    )) AS avg_ride_distance_miles
+FROM 
+    `cyclisticcasestudy.bike_rides_all_months_clean`
+GROUP BY 
+    member_casual;
