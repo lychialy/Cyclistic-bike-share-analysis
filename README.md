@@ -5,7 +5,7 @@ This is my project on the Cyclistic bike-share case study. This project analyzes
 It compares the behaviors of annual members and casual riders and provides insights into how Cyclistic can convert casual riders to annual members.
 
 ## Data
- The data used in this analysis is sourced from the Cyclistic bike-share service, cleaned, and analyzed using Google BigQuery.
+ The data used in this analysis is sourced from the Cyclistic bike-share service, cleaned, and analyzed using SQL in Google BigQuery. The dataset used includes trip data such as start and end times, start and end station names, user types(casual vs. member), and longitude and latitude data fro the stations. 
 ### Project Scope
 
 -   **Data Analysis**: Using BigQuery, I analyzed Cyclistic's bike usage data to uncover patterns and trends between annual members and casual riders.
@@ -13,9 +13,10 @@ It compares the behaviors of annual members and casual riders and provides insig
   
 Business Task: Analyze historical bike data to understand how annual members and casual riders use Cyclistic bike differently with the intention of designing marketing strategies to convert casual riders into annual members.
 
-There were three questions that we had to focus on:
+There were three questions that I had to focus on:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
+
 
 
