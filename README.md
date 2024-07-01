@@ -27,16 +27,20 @@ There were three questions that I had to focus on:
 ### Monthly Analysis
 
 Visualized seasonal trends to show peak usage during spring to late summer, this suggests higher demand during warmer months. 
-![Monthly Analysis](https://github.com/lychialy/Cyclistic-bike-share-analysis/blob/main/2024-07-01.png?raw=true)
+![Monthly Analysis](https://github.com/lychialy/Cyclistic-bike-share-analysis/blob/main/2024-07-01%20(2).png?raw=true)
 
 
 ### Average Duration and Distance
 
 Casual users have longer average ride duration compared to members. Indicating they may be using bikes for leisure or exploration. Both user types share an average of a little over 1 mile in distance per ride, suggesting similar travel distances. 
+![Avg Duration and Distance](https://github.com/lychialy/Cyclistic-bike-share-analysis/blob/main/2024-07-01.png?raw=true)
+
 
 ### Rideable Bike Type Analysis
 
 Found classic bikes as the most used among customers, followed by electric bikes, and then docked bikes. Knowing this helps with managing inventory and maintenance. Understanding which bike types are most utilized provides valuable insights into customer preferences and marketing strategies.
+
+[Bike Types](https://github.com/lychialy/Cyclistic-bike-share-analysis/blob/main/2024-07-01%20(1).png?raw=true)
 
 Link to [Tableau Dashboard with all visuals](https://public.tableau.com/views/CyclisticCaseStudyCapstone_17196371711750/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
