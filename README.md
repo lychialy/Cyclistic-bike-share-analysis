@@ -1,6 +1,6 @@
 # Cyclistic-bike-share-analysis and Marketing Strategy
 
-This is my project on the Cyclistic bike-share case study. This project analyzes the usage patterns of Cyclistic, the fictional bike-share service, focusing on data insights from the company.
+This is my project on the Cyclistic bike-share case study. This project analyzes the usage patterns of Cyclistic, the fictional bike-share service, focusing on data insights from the company. You'll also find that I've attached CSV files sourced from Google BigQuery that have been cleaned and analyzed for this study.
 
 It compares the behaviors of annual members and casual riders and provides insights into how Cyclistic can convert casual riders to annual members.
 
