@@ -1,0 +1,501 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual,row_num,ride_length
+B5A42213EFE8C99A,electric_bike,12/6/2022 18:05:00,12/6/2022 18:06:00,Damen Ave & Wabansia Ave,20,Damen Ave & Wabansia Ave,20,41.91,-87.68,41.91,-87.68,casual,1,1
+7E6AD321F4757F8E,electric_bike,12/14/2022 15:40:00,12/14/2022 15:46:00,Damen Ave & Wabansia Ave,20,Stave St & Armitage Ave,13266,41.91,-87.68,41.917741,-87.691392,member,1,6
+03ECC7054CAAEB71,electric_bike,12/22/2022 11:56:00,12/22/2022 12:14:00,Damen Ave & Wabansia Ave,20,Rush St & Superior St,15530,41.91,-87.68,41.89576475,-87.62590803,member,1,18
+4D450DD86A1A3F5C,electric_bike,12/30/2022 10:18:00,12/30/2022 10:23:00,Damen Ave & Wabansia Ave,20,Wood St & Milwaukee Ave,13221,41.91,-87.68,41.907655,-87.672552,member,1,5
+F36C06FF1C7BB15C,electric_bike,12/9/2022 15:47:00,12/9/2022 15:55:00,Damen Ave & Wabansia Ave,20,Damen Ave & Chicago Ave,13132,41.91,-87.68,41.895769,-87.67722,casual,1,8
+9580C3712CB82095,electric_bike,8/16/2023 20:17:40,8/16/2023 20:21:02,Monticello Ave & Chicago Ave,301,Monticello Ave & Chicago Ave,301,41.89528978,-87.71748638,41.8952089,-87.7174329,member,1,3
+18A70E69FA18E2C8,electric_bike,12/4/2022 16:51:00,12/4/2022 16:53:00,Lamon Ave & Chicago Ave,302,Lamon Ave & Chicago Ave,302,41.9,-87.75,41.9,-87.75,casual,1,2
+8BC870168FD636A5,electric_bike,9/29/2023 16:57:40,9/29/2023 17:18:39,Lamon Ave & Chicago Ave,302,Bloomingdale Ave & Harlem Ave,377,41.89525735,-87.74821949,41.9120739,-87.8057657,casual,1,20
+77BBEE487F122F06,electric_bike,6/24/2023 10:26:19,6/24/2023 10:51:53,Kildare Ave & Division St,303,Sangamon St & Washington Blvd,13409,41.90241718,-87.73364544,41.883165,-87.6511,member,1,25
+949DBBD3DAEFABB0,electric_bike,4/25/2023 11:46:29,4/25/2023 12:01:09,Kildare Ave & Division St,303,Leavitt St & Chicago Ave,18058,41.9,-87.73,41.895501,-87.682017,member,1,14
+62555938510850F0,electric_bike,6/30/2023 13:01:22,6/30/2023 13:02:45,Kildare Ave & Division St,303,Kildare Ave & Division St,303,41.90237017,-87.73367633,41.902393,-87.733598,casual,1,1
+43B8EB80A76E1376,electric_bike,9/14/2023 6:42:19,9/14/2023 6:48:28,Menard Ave & Division St,305,Menard Ave & North Ave,376,41.90232241,-87.77050114,41.9097167,-87.7702037,casual,1,6
+1C083E92B56A9E4D,electric_bike,8/4/2023 9:11:03,8/4/2023 9:12:23,Menard Ave & Division St,305,Menard Ave & Division St,305,41.90224755,-87.77049708,41.902269,-87.7704807,casual,1,1
+A81776FA208C91EB,electric_bike,8/12/2023 14:29:02,8/12/2023 14:38:14,Leamington Ave & Hirsch St,307,Latrobe Ave & Chicago Ave,642,41.90585017,-87.75489117,41.894745,-87.756895,casual,1,9
+04972A0A1BC8A345,electric_bike,7/4/2023 1:36:33,7/4/2023 1:52:27,Major Ave & Bloomingdale Ave,308,Spaulding Ave & Armitage Ave,15650,41.91257967,-87.76862333,41.91710803,-87.71022096,casual,1,15
+9F33A6FEC1F0B23B,electric_bike,5/9/2023 11:27:49,5/9/2023 11:34:17,Narragansett & McLean,309,Mulligan Ave & Wellington Ave,351,41.92,-87.79,41.93,-87.78,casual,1,6
+5654248C596AC35A,electric_bike,9/7/2023 15:49:26,9/7/2023 16:01:52,Narragansett & McLean,309,Austin Blvd & Lake St,16906,41.91588183,-87.7850935,41.88794379,-87.77427346,member,1,12
+D1177862B1CC822B,electric_bike,8/23/2023 13:04:29,8/23/2023 13:19:17,Narragansett & McLean,309,Austin Blvd & Lake St,16906,41.91583317,-87.78516933,41.88794379,-87.77427346,member,1,14
+1D22440DD3890564,electric_bike,10/2/2023 7:14:09,10/2/2023 7:25:23,Narragansett & McLean,309,Mulligan Ave & Wellington Ave,351,41.91592574,-87.7851094,41.9347409,-87.7844017,casual,1,11
+D25F942ECD645EBA,electric_bike,2/10/2023 18:28:50,2/10/2023 18:36:04,Narragansett & McLean,309,Narragansett & McLean,309,41.92,-87.79,41.92,-87.79,casual,1,7
+DB6DDFDE317B2CB9,electric_bike,5/7/2023 14:55:12,5/7/2023 16:00:57,North Ave & New England Ave,310,North Ave & New England Ave,310,41.91,-87.8,41.91,-87.8,casual,1,65
+249802BF415DB1AD,electric_bike,9/12/2023 20:14:59,9/12/2023 20:16:50,North Ave & New England Ave,310,North Ave & New England Ave,310,41.90929818,-87.797153,41.9092204,-87.7971406,member,1,1
+336EB75AB51B5B74,electric_bike,9/25/2023 15:52:12,9/25/2023 15:54:56,North Ave & New England Ave,310,North Ave & New England Ave,310,41.9093107,-87.79715538,41.9092204,-87.7971406,casual,1,2
+04E8B3A64F719710,electric_bike,6/20/2023 17:18:00,6/20/2023 17:56:44,North Ave & New England Ave,310,Halsted St & Clybourn Ave,331,41.90925384,-87.79709482,41.909668,-87.648128,member,1,38
+ACEB09C9ED4AE8DC,electric_bike,6/2/2023 16:52:38,6/2/2023 17:17:16,Lockwood Ave & Wrightwood Ave,312,Lockwood Ave & Wrightwood Ave,312,41.92780983,-87.75835367,41.9278175,-87.75837017,casual,1,24
+1FD2E0C54E3C30FB,electric_bike,8/7/2023 8:10:46,8/7/2023 8:52:12,Lockwood Ave & Wrightwood Ave,312,Buckingham Fountain (Temp),15541,41.92781889,-87.7583431,41.868288,-87.623982,member,1,41
+FAEECA7B23AD2CE6,electric_bike,8/11/2023 18:37:38,8/11/2023 19:11:58,Lockwood Ave & Wrightwood Ave,312,Lockwood Ave & Wrightwood Ave,312,41.92778667,-87.75829467,41.9278148,-87.7583757,casual,1,34
+D5C1AC3B023BF565,electric_bike,3/2/2023 13:10:17,3/2/2023 13:46:25,Lockwood Ave & Wrightwood Ave,312,Dearborn St & Erie St,13045,41.93,-87.76,41.893992,-87.629318,member,1,36
+0D991BDCBBACE260,electric_bike,7/19/2023 8:20:59,7/19/2023 8:36:34,Lockwood Ave & Wrightwood Ave,312,Public Rack - Avers Ave & Irving Park Rd,494,41.92780781,-87.75843382,41.953789,-87.724161,member,1,15
+176A68D4AAD59D46,electric_bike,8/3/2023 8:31:40,8/3/2023 8:47:37,Lockwood Ave & Wrightwood Ave,312,Public Rack - Avers Ave & Irving Park Rd,494,41.92787039,-87.75835753,41.953789,-87.724161,member,1,15
+F2AD29C212ECE6DD,electric_bike,7/20/2023 8:19:07,7/20/2023 8:32:28,Lockwood Ave & Wrightwood Ave,312,Public Rack - Avers Ave & Irving Park Rd,494,41.92782283,-87.75829172,41.953789,-87.724161,member,1,13
+94329ADCAB936915,electric_bike,8/18/2023 8:11:36,8/18/2023 8:26:03,Lockwood Ave & Wrightwood Ave,312,Public Rack - Avers Ave & Irving Park Rd,494,41.92778504,-87.75836623,41.953789,-87.724161,member,1,14
+FC48CF6BB772C9B5,electric_bike,3/5/2023 10:21:35,3/5/2023 10:32:52,Lockwood Ave & Wrightwood Ave,312,Kedzie Ave & Milwaukee Ave,13085,41.93,-87.76,41.929567,-87.707857,member,1,11
+233A360D613B65B4,electric_bike,3/27/2023 14:45:44,3/27/2023 14:55:56,Lockwood Ave & Wrightwood Ave,312,Kedzie Ave & Milwaukee Ave,13085,41.93,-87.76,41.929567,-87.707857,member,1,10
+328F569C27110BD5,electric_bike,10/18/2023 12:42:32,10/18/2023 12:55:46,Lockwood Ave & Wrightwood Ave,312,Richmond St & Diversey Ave,15645,41.92780467,-87.75833767,41.93190197,-87.70119513,member,1,13
+37D3EFE6C00BD023,electric_bike,1/5/2023 7:46:40,1/5/2023 8:01:47,Lockwood Ave & Wrightwood Ave,312,Public Rack - Avers Ave & Irving Park Rd,494,41.93,-87.76,41.95,-87.72,member,1,15
+6BA58B4C2262AAFA,electric_bike,5/10/2023 8:02:20,5/10/2023 8:19:54,Lockwood Ave & Wrightwood Ave,312,Public Rack - Avers Ave & Irving Park Rd,494,41.93,-87.76,41.95,-87.72,member,1,17
+58C6C192245D8A0C,electric_bike,2/10/2023 10:46:53,2/10/2023 10:59:57,Lockwood Ave & Wrightwood Ave,312,Public Rack - Avers Ave & Irving Park Rd,494,41.93,-87.76,41.95,-87.72,member,1,13
+372587F4FCA45521,electric_bike,2/5/2023 18:42:29,2/5/2023 18:49:16,Lockwood Ave & Wrightwood Ave,312,Central Ave & Roscoe St,396,41.93,-87.76,41.94,-87.77,member,1,6
+94A02D66CBED5BF9,electric_bike,10/24/2023 15:28:20,10/24/2023 16:50:18,Lockwood Ave & Wrightwood Ave,312,Michigan Ave & Washington St,13001,41.92779233,-87.758346,41.88398406,-87.62468398,casual,1,81
+AD15151E5304D84B,electric_bike,5/18/2023 9:32:51,5/18/2023 9:41:17,Lockwood Ave & Wrightwood Ave,312,Narragansett & Wrightwood,314,41.93,-87.76,41.93,-87.79,casual,1,8
+64D4B7DDB701A329,electric_bike,4/13/2023 17:21:03,4/13/2023 17:44:53,Lockwood Ave & Wrightwood Ave,312,Lockwood Ave & Wrightwood Ave,312,41.93,-87.76,41.93,-87.76,casual,1,23
+F93A246CF092BC88,electric_bike,4/15/2023 18:49:47,4/15/2023 19:07:11,Lockwood Ave & Wrightwood Ave,312,Lockwood Ave & Wrightwood Ave,312,41.93,-87.76,41.93,-87.76,casual,1,17
+4A708F9176916016,electric_bike,5/19/2023 21:35:56,5/19/2023 21:41:05,Lockwood Ave & Wrightwood Ave,312,Kostner Ave & Wrightwood Ave,321,41.93,-87.76,41.93,-87.74,member,1,5
+F52612BE7D073DFC,electric_bike,2/18/2023 8:02:58,2/18/2023 8:08:05,Lockwood Ave & Wrightwood Ave,312,Lavergne & Fullerton,356,41.93,-87.76,41.92,-87.75,casual,1,5
+89B3018E3CB1667E,electric_bike,4/11/2023 19:55:08,4/11/2023 20:29:57,Lockwood Ave & Wrightwood Ave,312,Long Ave & Belden Ave,313,41.93,-87.76,41.92,-87.76,casual,1,34
+4E973C611D1A65A2,electric_bike,9/16/2023 12:21:34,9/16/2023 12:36:53,Long Ave & Belden Ave,313,Albany Ave & Bloomingdale Ave,15655,41.92278123,-87.76091123,41.91402671,-87.70512646,member,1,15
+B8D5307DB395EE3F,electric_bike,6/4/2023 15:28:56,6/4/2023 16:24:06,Long Ave & Belden Ave,313,Long Ave & Belden Ave,313,41.92283297,-87.76098502,41.9226948,-87.76098859,casual,1,55
+896ADE869FA45054,electric_bike,6/24/2023 22:45:36,6/24/2023 23:14:25,Long Ave & Belden Ave,313,Western Ave & Division St,13241,41.9227535,-87.76093483,41.902893,-87.687275,casual,1,28
+131AEF7983D7B119,electric_bike,10/2/2023 18:06:29,10/2/2023 18:25:16,Long Ave & Belden Ave,313,Spaulding Ave & Armitage Ave,15650,41.92283356,-87.76092506,41.91710803,-87.71022096,member,1,18
+F5A777FBC8BF4784,electric_bike,9/2/2023 17:43:55,9/2/2023 17:47:54,Narragansett & Wrightwood,314,Public Rack - Austin Ave & Wrightwood Ave,565,41.92728329,-87.78520799,41.927666,-87.775682,casual,1,3
+AE24584DFC205C81,electric_bike,6/23/2023 21:51:02,6/23/2023 22:18:33,Narragansett & Wrightwood,314,Richmond St & Diversey Ave,15645,41.9272905,-87.78519033,41.93190197,-87.70119513,member,1,27
+FBC67785768C953D,electric_bike,7/8/2023 17:59:16,7/8/2023 18:51:32,Narragansett & Wrightwood,314,Narragansett & Wrightwood,314,41.92729733,-87.78523817,41.927294,-87.7852027,member,1,52
+71AAE88CE54B38DB,electric_bike,7/4/2023 17:26:54,7/4/2023 17:38:08,Narragansett & Wrightwood,314,Narragansett & Wrightwood,314,41.9273375,-87.78520217,41.927294,-87.7852027,member,1,11
+522A26C6BCFF5621,electric_bike,8/13/2023 15:41:23,8/13/2023 16:04:24,Narragansett & Wrightwood,314,Narragansett & Wrightwood,314,41.92730183,-87.78521,41.927294,-87.7852027,casual,1,23
+CE661D8F79BBB625,electric_bike,10/22/2023 15:22:01,10/22/2023 16:37:18,Narragansett & Wrightwood,314,Narragansett & Wrightwood,314,41.927302,-87.78523254,41.927294,-87.7852027,casual,1,75
+7544CBBEDEE9E429,electric_bike,8/8/2023 15:59:09,8/8/2023 16:02:33,Narragansett & Wrightwood,314,Public Rack - Nagle Ave & Belmont Ave,810,41.92728667,-87.78523633,41.938201,-87.787415,member,1,3
+4060AB3F9B447BB8,electric_bike,6/11/2023 16:40:10,6/11/2023 16:54:02,Narragansett & Wrightwood,314,Narragansett & Wrightwood,314,41.92732783,-87.785238,41.92730433,-87.785246,casual,1,13
+3804A887C21A74FE,electric_bike,8/18/2023 14:35:10,8/18/2023 14:50:18,Narragansett & Wrightwood,314,Shabbona Park,395,41.927308,-87.78528767,41.944847,-87.799326,casual,1,15
+650C673E6F76FDB2,electric_bike,5/12/2023 0:51:42,5/12/2023 0:56:49,Narragansett & Wrightwood,314,Narragansett Ave & School St,397,41.93,-87.79,41.94,-87.79,casual,1,5
+4BA4926967E6F33D,electric_bike,3/21/2023 20:19:59,3/21/2023 20:31:20,Narragansett & Wrightwood,314,Lamon Ave & Belmont Ave,316,41.93,-87.79,41.94,-87.75,member,1,11
+16936A8E89CEF1AC,electric_bike,12/12/2022 16:04:00,12/12/2022 16:09:00,Narragansett & Wrightwood,314,Public Rack - Nagle Ave & Belmont Ave,810,41.93,-87.79,41.94,-87.79,member,1,5
+30DF7BE6D316C6E0,electric_bike,4/14/2023 0:20:53,4/14/2023 0:26:13,Narragansett & Wrightwood,314,Narragansett Ave & School St,397,41.93,-87.79,41.94,-87.79,casual,1,5
+56105A09E2FF8725,electric_bike,6/23/2023 21:14:06,6/23/2023 21:35:10,Narragansett & Wrightwood,314,Spaulding Ave & Armitage Ave,15650,41.92731834,-87.78525841,41.91710803,-87.71022096,member,1,21
+BF3471C47BF70772,electric_bike,3/18/2023 7:14:01,3/18/2023 7:16:39,Narragansett & Wrightwood,314,Public Rack - Austin Ave & Wrightwood Ave,565,41.93,-87.79,41.93,-87.78,casual,1,2
+DC748360BFF6967F,electric_bike,4/4/2023 10:18:59,4/4/2023 10:21:57,Narragansett & Wrightwood,314,Public Rack - Austin Ave & Wrightwood Ave,565,41.93,-87.79,41.93,-87.78,casual,1,2
+2CD03DF9083BFA4B,electric_bike,3/27/2023 18:00:34,3/27/2023 18:24:19,Narragansett & Wrightwood,314,Narragansett & Wrightwood,314,41.93,-87.79,41.93,-87.79,casual,1,23
+E28348D6DE7CD5CF,electric_bike,3/12/2023 7:15:14,3/12/2023 7:17:22,Narragansett & Wrightwood,314,Public Rack - Austin Ave & Wrightwood Ave,565,41.93,-87.79,41.93,-87.78,casual,1,2
+9D382820D2467CAF,electric_bike,4/10/2023 21:20:09,4/10/2023 21:29:30,Narragansett & Wrightwood,314,Central Ave & Parker Ave,355,41.93,-87.79,41.93,-87.77,member,1,9
+23A1E00F3E6F501F,electric_bike,4/9/2023 17:13:06,4/9/2023 17:36:27,Narragansett & Wrightwood,314,Narragansett & Wrightwood,314,41.93,-87.79,41.93,-87.79,casual,1,23
+22D5AFDBEA925AA4,electric_bike,5/10/2023 19:52:03,5/10/2023 20:21:39,Narragansett & Wrightwood,314,Narragansett & Wrightwood,314,41.93,-87.79,41.93,-87.79,casual,1,29
+EE37DDDBB2A7AD0D,electric_bike,7/26/2023 8:45:10,7/26/2023 8:51:07,Narragansett & Wrightwood,314,Long Ave & Belden Ave,313,41.92729318,-87.78527224,41.9227049,-87.760954,casual,1,5
+34E14EAE80732B23,electric_bike,5/10/2023 16:14:32,5/10/2023 16:19:07,Narragansett & Wrightwood,314,Fullerton & Monitor,474,41.93,-87.79,41.92,-87.77,casual,1,4
+DAF5A00385A98F65,electric_bike,9/13/2023 18:58:49,9/13/2023 19:06:03,Lamon Ave & Belmont Ave,316,Central Park Ave & Elbridge Ave,15644,41.9390535,-87.74925417,41.93533728,-87.71688929,member,1,7
+5B5ECD01C5EB7D60,electric_bike,10/24/2023 17:48:05,10/24/2023 17:57:13,Lamon Ave & Belmont Ave,316,Central Park Ave & Elbridge Ave,15644,41.93898809,-87.74925339,41.93533728,-87.71688929,member,1,9
+FCEA0409D1601913,electric_bike,9/30/2023 14:17:32,9/30/2023 14:33:46,Lamon Ave & Belmont Ave,316,Humboldt Blvd & Armitage Ave,15651,41.9390161,-87.74922204,41.91751339,-87.70180896,member,1,16
+0571A79ACF7B1C20,electric_bike,8/24/2023 12:08:51,8/24/2023 12:15:01,Lamon Ave & Belmont Ave,316,Long & Irving Park,398,41.9389571,-87.7492733,41.953038,-87.7621632,member,1,6
+8CE60066AE8C84D7,electric_bike,6/24/2023 16:31:55,6/24/2023 16:43:50,Lamon Ave & Belmont Ave,316,Kedzie Ave & Milwaukee Ave,13085,41.93893617,-87.74926817,41.929567,-87.707857,casual,1,11
+0749C869863DD51F,electric_bike,9/19/2023 17:27:09,9/19/2023 18:48:35,Lamon Ave & Belmont Ave,316,Public Rack - Cicero Ave & Wrightwood Ave,547,41.938988,-87.74920717,41.927944,-87.7466394,casual,1,81
+9C6EC3003633105D,electric_bike,7/14/2023 20:35:39,7/14/2023 21:44:15,Lamon Ave & Belmont Ave,316,Lamon Ave & Belmont Ave,316,41.9389525,-87.74925867,41.9390108,-87.7492834,casual,1,68
+F1CC0FBD349B0157,electric_bike,8/17/2023 19:05:19,8/17/2023 19:35:26,Lamon Ave & Belmont Ave,316,Lamon Ave & Belmont Ave,316,41.93898733,-87.74927367,41.9390108,-87.7492834,casual,1,30
+C249632A93FB298A,electric_bike,6/23/2023 17:28:09,6/23/2023 17:30:44,Lamon Ave & Belmont Ave,316,Lamon Ave & Belmont Ave,316,41.93897164,-87.74932885,41.9390108,-87.7492834,casual,1,2
+58C4E36DDFE197D4,electric_bike,8/14/2023 7:26:19,8/14/2023 7:49:03,Lamon Ave & Belmont Ave,316,Noble St & Milwaukee Ave,13290,41.93894088,-87.74935126,41.90068,-87.6626,member,1,22
+79A123D6CD8AC1AA,electric_bike,4/26/2023 13:14:37,4/26/2023 13:17:07,Lamon Ave & Belmont Ave,316,Lamon Ave & Belmont Ave,316,41.94,-87.75,41.94,-87.75,casual,1,2
+28E6233BFE1CC96A,electric_bike,4/26/2023 13:00:59,4/26/2023 13:17:43,Lamon Ave & Belmont Ave,316,Lamon Ave & Belmont Ave,316,41.94,-87.75,41.94,-87.75,casual,1,16
+98D15CB16B1C2E58,electric_bike,4/28/2023 16:36:53,4/28/2023 16:46:11,Lamon Ave & Belmont Ave,316,Public Rack - Kenton Ave & Palmer St,516,41.94,-87.75,41.92,-87.74,casual,1,9
+E56E958A23938E18,electric_bike,1/19/2023 16:52:32,1/19/2023 17:00:27,Lamon Ave & Belmont Ave,316,Lavergne & Fullerton,356,41.94,-87.75,41.92,-87.75,casual,1,7
+BE87A7A7F388B54D,electric_bike,8/25/2023 7:58:21,8/25/2023 8:03:49,Long Ave & Belmont Ave,317,Long & Irving Park,398,41.938405,-87.76168233,41.953038,-87.7621632,member,1,5
+091DDB10293ACCEF,electric_bike,11/7/2023 7:46:03,11/7/2023 7:52:02,Long Ave & Belmont Ave,317,Long & Irving Park,398,41.93833,-87.76162867,41.953038,-87.7621632,member,1,5
+D77222F84EF279A0,electric_bike,9/23/2023 17:38:39,9/23/2023 18:26:46,Long Ave & Belmont Ave,317,Shedd Aquarium,15544,41.93834269,-87.76172984,41.86722596,-87.61535539,member,1,48
+91125F2415D738A7,electric_bike,5/17/2023 13:54:07,5/17/2023 13:59:09,Long Ave & Belmont Ave,317,Long Ave & Belden Ave,313,41.94,-87.76,41.92,-87.76,casual,1,5
+43DC763A9B91FA87,electric_bike,7/22/2023 0:27:03,7/22/2023 0:58:28,Oak Park & Wellington,318,Oak Park & Wellington,318,41.93461233,-87.7958125,41.934586,-87.7959613,casual,1,31
+20DC05F830E04F1C,electric_bike,7/22/2023 0:27:09,7/22/2023 0:58:28,Oak Park & Wellington,318,Oak Park & Wellington,318,41.93460178,-87.79586554,41.934586,-87.7959613,casual,1,31
+050A574D45C29700,electric_bike,5/21/2023 15:13:59,5/21/2023 16:05:09,Oak Park & Wellington,318,Oak Park & Wellington,318,41.93,-87.8,41.93,-87.8,casual,1,51
+061D815C151FE96D,electric_bike,6/25/2023 18:27:33,6/25/2023 18:33:34,Roscoe & Harlem,319,Orange & Addison,320,41.941601,-87.80720133,41.9448846,-87.82423,casual,1,6
+BF654BB9E77917D4,electric_bike,8/15/2023 8:37:15,8/15/2023 8:40:53,Roscoe & Harlem,319,Harlem & Irving Park,326,41.94161058,-87.80715871,41.9532568,-87.8071434,casual,1,3
+C1D0951480506B12,electric_bike,2/6/2023 12:49:02,2/6/2023 12:52:12,Roscoe & Harlem,319,Harlem & Irving Park,326,41.94,-87.81,41.95,-87.81,casual,1,3
+976E17997B8FE785,electric_bike,2/24/2023 11:40:48,2/24/2023 11:44:22,Roscoe & Harlem,319,Harlem & Irving Park,326,41.94,-87.81,41.95,-87.81,casual,1,3
+AE15509564098FAB,electric_bike,6/17/2023 13:00:11,6/17/2023 13:04:07,Roscoe & Harlem,319,Harlem & Irving Park,326,41.94160461,-87.80716634,41.95322764,-87.80715776,casual,1,3
+05C264B10950E965,electric_bike,6/28/2023 21:55:21,6/28/2023 22:23:04,Orange & Addison,320,Public Rack - Panama Ave & Forest Preserve Ave,573,41.9448285,-87.8241315,41.943162,-87.82909,casual,1,27
+1E8725B4F8B274FF,electric_bike,7/24/2023 21:34:56,7/24/2023 22:02:59,Orange & Addison,320,Orange & Addison,320,41.94480967,-87.82412317,41.9448846,-87.82423,casual,1,28
+6AC11CC94A16E811,electric_bike,6/12/2023 14:18:37,6/12/2023 14:31:19,Orange & Addison,320,Harlem & Irving Park,326,41.94480348,-87.82420242,41.95328808,-87.80710888,casual,1,12
+53FFD72D57CBCF11,electric_bike,6/16/2023 10:53:19,6/16/2023 10:58:21,Kostner Ave & Wrightwood Ave,321,Public Rack - Pulaski Rd & Armitage Ave,517,41.92793381,-87.7360307,41.91709924,-87.72712219,member,1,5
+94BD17459A7C17ED,electric_bike,7/29/2023 22:25:43,7/29/2023 22:37:23,Kostner Ave & Wrightwood Ave,321,Humboldt Blvd & Armitage Ave,15651,41.92792368,-87.73593593,41.91751339,-87.70180896,member,1,11
+6C5C1CAC25C5A1BB,electric_bike,6/16/2023 23:30:41,6/16/2023 23:42:12,Kostner Ave & Wrightwood Ave,321,Kostner Ave & Wrightwood Ave,321,41.92782717,-87.73600533,41.92788533,-87.73602717,member,1,11
+931723A54D0AB2E7,electric_bike,9/14/2023 18:14:36,9/14/2023 18:58:30,Kostner Ave & Wrightwood Ave,321,LaSalle St & Illinois St,13430,41.92791933,-87.73598933,41.890762,-87.631697,casual,1,43
+21403C34FBCEAA35,electric_bike,7/15/2023 14:12:09,7/15/2023 14:20:43,Kostner Ave & Wrightwood Ave,321,Public Rack - Pulaski Rd & Armitage Ave,517,41.927958,-87.73601217,41.91702,-87.727096,casual,1,8
+1251C6B3080F30F6,electric_bike,8/14/2023 11:39:19,8/14/2023 11:47:20,Kostner Ave & Wrightwood Ave,321,Public Rack - Pulaski Rd & Armitage Ave,517,41.92797041,-87.73602343,41.91702,-87.727096,member,1,8
+0D16B7AB6D739020,electric_bike,6/19/2023 8:41:00,6/19/2023 8:47:08,Kostner Ave & Wrightwood Ave,321,Lamon Ave & Armitage Ave,357,41.92797828,-87.73602569,41.91667831,-87.74947619,casual,1,6
+C151B6AB9991B833,electric_bike,6/22/2023 8:48:26,6/22/2023 8:55:35,Kostner Ave & Wrightwood Ave,321,Lamon Ave & Armitage Ave,357,41.92791784,-87.73602104,41.9167217,-87.74949205,casual,1,7
+E1F3E4FB881474D3,electric_bike,3/23/2023 13:06:34,3/23/2023 13:12:13,Kostner Ave & Wrightwood Ave,321,Public Rack - Pulaski Rd & Armitage Ave,517,41.93,-87.74,41.92,-87.73,member,1,5
+DCE668FB35342528,electric_bike,5/10/2023 10:16:22,5/10/2023 10:21:58,Kostner Ave & Wrightwood Ave,321,Public Rack - Pulaski Rd & Armitage Ave,517,41.93,-87.74,41.92,-87.73,member,1,5
+DFDB0F5FF528AAEB,electric_bike,1/4/2023 12:15:30,1/4/2023 12:22:00,Kostner Ave & Wrightwood Ave,321,Public Rack - Pulaski Rd & Armitage Ave,517,41.93,-87.74,41.92,-87.73,member,1,6
+A1CC57B8EA3283BA,electric_bike,6/30/2023 12:24:05,6/30/2023 12:35:58,Cicero Ave & Grace St,322,Long & Irving Park,398,41.949774,-87.74697133,41.953038,-87.7621632,casual,1,11
+E10D75F66F43C0D5,electric_bike,5/20/2023 6:06:41,5/20/2023 6:32:17,Cicero Ave & Grace St,322,Conservatory Dr & Lake St,518,41.95,-87.75,41.885502,-87.716866,member,1,25
+1D9BC136C9A6B23F,electric_bike,4/7/2023 17:33:02,4/7/2023 17:44:18,Cicero Ave & Grace St,322,Long & Irving Park,398,41.95,-87.75,41.95,-87.76,member,1,11
+D40305BA3EC92879,electric_bike,5/16/2023 11:47:24,5/16/2023 12:44:15,Cicero Ave & Grace St,322,Cicero Ave & Grace St,322,41.95,-87.75,41.95,-87.75,casual,1,56
+D8468DE26DAA3FA4,electric_bike,8/31/2023 13:12:01,8/31/2023 13:17:45,Cicero Ave & Grace St,322,Kilbourn & Roscoe,360,41.94970383,-87.747022,41.9427319,-87.7395332,member,1,5
+BDF1F902D6F96ED6,electric_bike,3/27/2023 18:45:10,3/27/2023 18:49:44,Cicero Ave & Grace St,322,Kilbourn & Roscoe,360,41.95,-87.75,41.94,-87.74,casual,1,4
+14B5948EB526AB23,electric_bike,8/10/2023 19:17:45,8/10/2023 19:38:13,Cicero Ave & Grace St,322,Western Ave & Winnebago Ave,13068,41.94977331,-87.7469604,41.91552,-87.687022,casual,1,20
+BD65449AD3FC098F,electric_bike,6/23/2023 19:04:52,6/23/2023 19:22:17,Cicero Ave & Grace St,322,Cicero Ave & Grace St,322,41.949724,-87.74700483,41.94973,-87.7469526,casual,1,17
+DC285D31FE6CC357,electric_bike,8/2/2023 6:04:09,8/2/2023 6:13:41,Cicero Ave & Grace St,322,Kilpatrick Ave & Parker Ave,358,41.9497235,-87.74696983,41.930736,-87.744082,casual,1,9
+AB0810DA97C6D681,electric_bike,11/22/2023 21:42:33,11/22/2023 22:02:05,Cicero Ave & Grace St,322,California Ave & Altgeld St,15646,41.94975138,-87.74695182,41.92669,-87.697668,member,1,19
+F9D0EF9B47000AF0,electric_bike,7/22/2023 3:21:02,7/22/2023 3:23:39,Narragansett & Irving Park,323,Narragansett & Irving Park,323,41.9526085,-87.78532933,41.952614,-87.7853829,casual,1,2
+C0400A56FA01CBFB,electric_bike,11/29/2023 14:33:55,11/29/2023 14:42:28,Narragansett & Irving Park,323,Harlem & Irving Park,326,41.95260549,-87.78540254,41.9532568,-87.8071434,member,1,8
+76A4E19BAAA51119,electric_bike,11/7/2023 21:44:55,11/7/2023 21:56:14,Narragansett & Irving Park,323,Public Rack - Menard Ave & Belmont Ave,562,41.95262659,-87.78532636,41.9384526,-87.7711009,member,1,11
+4ED589F8BDAF46E7,electric_bike,9/10/2023 2:56:01,9/10/2023 3:06:20,Narragansett & Irving Park,323,Sayre & Diversey,352,41.95261264,-87.78537762,41.9310084,-87.8010646,casual,1,10
+4EE0E1B60A0F69A7,electric_bike,6/6/2023 20:11:07,6/6/2023 20:23:24,Narragansett & Irving Park,323,Narragansett & Irving Park,323,41.95257633,-87.78534983,41.95257917,-87.78534833,casual,1,12
+C1817CA98A61683A,electric_bike,2/1/2023 16:27:09,2/1/2023 16:38:53,Narragansett & Irving Park,323,Harlem & Irving Park,326,41.95,-87.79,41.95,-87.81,casual,1,11
+268742DDD92C9B6C,electric_bike,4/9/2023 16:21:10,4/9/2023 16:54:32,Narragansett & Irving Park,323,Narragansett & Irving Park,323,41.95,-87.79,41.95,-87.79,casual,1,33
+17BB04AEAD1365E3,electric_bike,2/7/2023 2:25:12,2/7/2023 2:31:13,Narragansett & Irving Park,323,Narragansett & Irving Park,323,41.95,-87.79,41.95,-87.79,member,1,6
+422BFAEA6964E1FB,electric_bike,12/6/2022 11:00:00,12/6/2022 11:10:00,Narragansett & Irving Park,323,Mason Ave & Belmont Ave,473,41.95,-87.79,41.94,-87.77,member,1,10
+8CD3AA4E35ABA865,electric_bike,2/7/2023 22:04:37,2/7/2023 22:18:02,Narragansett & Irving Park,323,Central Ave & Parker Ave,355,41.95,-87.79,41.93,-87.77,casual,1,13
+B07611B7C7BE799D,electric_bike,7/15/2023 13:56:37,7/15/2023 14:11:28,Narragansett & Irving Park,323,Bernard St & Elston Ave,18016,41.95257283,-87.785404,41.949923,-87.713949,member,1,14
+F13ADED4836464C4,electric_bike,4/13/2023 13:04:14,4/13/2023 13:17:41,Narragansett & Irving Park,323,Bernard St & Elston Ave,18016,41.95,-87.79,41.949923,-87.713949,member,1,13
+89AD7240524727FF,electric_bike,2/27/2023 0:57:04,2/27/2023 1:13:08,Meade Ave & Addison St,324,Milwaukee Ave & Cuyler Ave,16991,41.95,-87.78,41.954468,-87.749594,member,1,16
+7683F6BFE6368AA6,electric_bike,7/22/2023 6:27:03,7/22/2023 6:31:12,Meade Ave & Addison St,324,Narragansett & Irving Park,323,41.9459315,-87.77887667,41.952614,-87.7853829,casual,1,4
+26221FE8E0A29818,electric_bike,6/10/2023 20:23:40,6/10/2023 20:53:04,Meade Ave & Addison St,324,Narragansett & Wrightwood,314,41.94590633,-87.77894117,41.92725083,-87.78524367,casual,1,29
+2A2D81F7FE20F9E0,electric_bike,10/7/2023 20:45:12,10/7/2023 20:48:43,Meade Ave & Addison St,324,Meade Ave & Addison St,324,41.9459914,-87.77889657,41.9459174,-87.7788824,casual,1,3
+6DC5046A72024DF7,electric_bike,8/12/2023 1:34:08,8/12/2023 1:56:54,Meade Ave & Addison St,324,Narragansett Ave & School St,397,41.94591283,-87.77884883,41.940128,-87.7864806,casual,1,22
+4E0922C94A47BD24,electric_bike,6/17/2023 12:00:05,6/17/2023 13:08:21,Meade Ave & Addison St,324,Southport Ave & Waveland Ave,13235,41.94593967,-87.77887933,41.94815,-87.66394,casual,1,68
+AEBD6CEBD5841745,electric_bike,5/29/2023 19:49:50,5/29/2023 20:24:05,Harlem Ave & Grace St,325,Harlem Ave & Grace St,325,41.948927,-87.80677017,41.94891133,-87.8067545,casual,1,34
+4A4B6E364853B8EB,electric_bike,11/13/2023 13:13:01,11/13/2023 13:15:19,Harlem Ave & Grace St,325,Harlem & Irving Park,326,41.94896436,-87.80690634,41.9532568,-87.8071434,casual,1,2
+8DF38B12D063540F,electric_bike,7/3/2023 22:21:50,7/3/2023 22:31:38,Harlem Ave & Grace St,325,Oak Park & Wellington,318,41.94893575,-87.80688357,41.934586,-87.7959613,casual,1,9
+4D6F95F10B93F817,electric_bike,6/9/2023 14:12:26,6/9/2023 14:30:24,Harlem Ave & Grace St,325,Orange & Addison,320,41.94896698,-87.80689514,41.94485891,-87.82419097,casual,1,17
+6502379BD0894965,electric_bike,5/29/2023 19:50:54,5/29/2023 20:24:24,Harlem Ave & Grace St,325,Harlem Ave & Grace St,325,41.94894167,-87.8067415,41.94891317,-87.80678317,casual,1,33
+77AC409BF65540BC,electric_bike,5/25/2023 17:44:40,5/25/2023 17:46:41,Harlem Ave & Grace St,325,Harlem & Irving Park,326,41.94891683,-87.8068335,41.95326533,-87.80716767,member,1,2
+0C12A916A06197CD,electric_bike,6/9/2023 20:15:11,6/9/2023 20:29:18,Harlem & Irving Park,326,Knox Ave & Montrose Ave,592,41.95328105,-87.80715704,41.960631,-87.745359,member,1,14
+4106A14A6C29CE28,electric_bike,8/16/2023 17:48:14,8/16/2023 18:18:56,Harlem & Irving Park,326,Central Park Ave & Elbridge Ave,15644,41.95329297,-87.80715668,41.93533728,-87.71688929,member,1,30
+AC0697D5C0746D5F,electric_bike,5/30/2023 18:42:28,5/30/2023 18:58:06,Harlem & Irving Park,326,Milwaukee Ave & Cuyler Ave,16991,41.95322251,-87.80717731,41.954468,-87.749594,casual,1,15
+C482C8718A9B936E,electric_bike,4/9/2023 6:57:09,4/9/2023 7:19:50,Harlem & Irving Park,326,Bloomingdale Ave & Harlem Ave,377,41.95,-87.81,41.91,-87.81,casual,1,22
+938B2C311455F3E7,electric_bike,6/14/2023 21:04:42,6/14/2023 21:14:03,Harlem & Irving Park,326,Narragansett & Irving Park,323,41.95323646,-87.8071574,41.95262957,-87.78533757,casual,1,9
+94BEFFB22FDA6CCC,electric_bike,8/17/2023 22:28:38,8/17/2023 22:30:01,Harlem & Irving Park,326,Harlem & Irving Park,326,41.9532445,-87.80713,41.9532568,-87.8071434,casual,1,1
+6503A8073E49F371,electric_bike,11/20/2023 22:30:19,11/20/2023 22:38:47,Harlem & Irving Park,326,Sayre & Diversey,352,41.95324719,-87.80716014,41.9310084,-87.8010646,casual,1,8
+A1E289DD8748FE93,electric_bike,7/7/2023 15:05:00,7/7/2023 15:16:22,Harlem & Irving Park,326,Sayre & Diversey,352,41.95326591,-87.8071487,41.9310084,-87.8010646,casual,1,11
+2DEC5F8873C7B54A,electric_bike,11/8/2023 12:08:43,11/8/2023 14:09:20,Harlem & Irving Park,326,Harlem Ave & Grace St,325,41.95321633,-87.80712067,41.9488531,-87.806938,casual,1,120
+A02019B9640F35A1,electric_bike,7/4/2023 13:14:00,7/4/2023 13:18:37,Harlem & Irving Park,326,Harlem Ave & Grace St,325,41.95306617,-87.80716783,41.9488531,-87.806938,casual,1,4
+E94F90432BCE2997,electric_bike,3/22/2023 13:14:44,3/22/2023 13:23:42,Harlem & Irving Park,326,Roscoe & Harlem,319,41.95,-87.81,41.94,-87.81,member,1,8
+BA8CF1112EE6C0C7,electric_bike,4/30/2023 14:01:47,4/30/2023 14:10:12,Harlem & Irving Park,326,Sayre & Diversey,352,41.95,-87.81,41.93,-87.8,casual,1,8
+6F564A8FA190D580,electric_bike,5/14/2023 15:45:10,5/14/2023 16:01:39,Harlem & Irving Park,326,Sayre & Diversey,352,41.95,-87.81,41.93,-87.8,casual,1,16
+442E233F504B07FB,electric_bike,4/18/2023 23:29:55,4/18/2023 23:38:39,Harlem & Irving Park,326,Sayre & Diversey,352,41.95,-87.81,41.93,-87.8,casual,1,8
+AD23B031EA08EB51,electric_bike,2/18/2023 18:34:30,2/18/2023 18:43:47,Harlem & Irving Park,326,Sayre & Diversey,352,41.95,-87.81,41.93,-87.8,casual,1,9
+ADAD024ABE6EEFF7,electric_bike,6/5/2023 13:33:42,6/5/2023 14:05:51,Harlem & Irving Park,326,Kostner Ave & Wrightwood Ave,321,41.95322347,-87.80716431,41.92792773,-87.73600292,casual,1,32
+5AE9384E81F9A501,electric_bike,8/26/2023 21:54:49,8/26/2023 22:00:10,Harlem & Irving Park,326,Roscoe & Harlem,319,41.95323233,-87.8071375,41.9416062,-87.8072964,casual,1,5
+63AACB6A691173FC,electric_bike,4/11/2023 13:34:31,4/11/2023 14:24:47,Plainfield & Irving Park,327,Plainfield & Irving Park,327,41.95,-87.83,41.95,-87.83,casual,1,50
+E7109A5B34642EFF,electric_bike,12/4/2022 19:21:00,12/4/2022 19:29:00,Halsted St & Clybourn Ave,331,Wells St & Institute Pl,22001,41.9096805,-87.64812617,41.89737986,-87.63442039,casual,1,8
+6BFB8E318D6112FB,electric_bike,8/13/2023 18:25:13,8/13/2023 18:47:22,Halsted St & Clybourn Ave,331,Field Blvd & South Water St,15534,41.90961468,-87.64810264,41.88634906,-87.61751655,member,1,22
+31B805736AD7C4B0,classic_bike,7/20/2023 8:43:34,7/20/2023 9:12:37,Halsted St & Clybourn Ave,331,Dearborn St & Van Buren St,624,41.909668,-87.648128,41.876268,-87.629155,member,1,29
+461100A38BD65F80,classic_bike,6/9/2023 18:17:07,6/9/2023 18:46:01,Halsted St & Clybourn Ave,331,California Ave & Fletcher St,15642,41.909668,-87.648128,41.93842879,-87.69800776,casual,1,28
+2BAFDD1C880CA293,classic_bike,7/26/2023 19:40:27,7/26/2023 20:04:09,Halsted St & Clybourn Ave,331,California Ave & Fletcher St,15642,41.909668,-87.648128,41.93842879,-87.69800776,casual,1,23
+291A0D3CD018709E,classic_bike,6/4/2023 11:51:07,6/4/2023 12:04:51,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.909668,-87.648128,41.8966172,-87.62857854,member,1,13
+DBD8F8C1C854414A,classic_bike,8/11/2023 17:18:24,8/11/2023 17:30:05,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.909668,-87.648128,41.8966172,-87.62857854,member,1,11
+4040509F6BC273E8,electric_bike,6/3/2023 21:30:00,6/3/2023 21:51:54,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.90952897,-87.64813304,41.8966172,-87.62857854,member,1,21
+B5728997FAF21F58,classic_bike,10/10/2023 22:08:14,10/10/2023 22:23:35,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.909668,-87.648128,41.8966172,-87.62857854,member,1,15
+6ACD90E869ED3ADE,classic_bike,11/16/2023 17:20:58,11/16/2023 17:34:45,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.909668,-87.648128,41.8966172,-87.62857854,member,1,13
+FAC1E8A580143F41,electric_bike,7/28/2023 15:41:49,7/28/2023 15:50:19,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.9095235,-87.64812017,41.8966172,-87.62857854,member,1,8
+B658988DFF72E177,classic_bike,8/26/2023 16:49:38,8/26/2023 17:03:59,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.909668,-87.648128,41.8966172,-87.62857854,member,1,14
+1824ADCCEDB20A4D,electric_bike,5/26/2023 17:01:22,5/26/2023 17:11:05,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.90959954,-87.64814162,41.8966172,-87.62857854,member,1,9
+9A5C4B8FFA38E201,electric_bike,7/27/2023 16:34:42,7/27/2023 16:42:45,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.90953217,-87.64810283,41.8966172,-87.62857854,member,1,8
+04194A60D4A86A6B,classic_bike,6/9/2023 16:58:37,6/9/2023 17:12:25,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.909668,-87.648128,41.8966172,-87.62857854,member,1,13
+8F35301FAC1B5F04,electric_bike,7/12/2023 18:23:14,7/12/2023 18:32:10,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.90955683,-87.6481295,41.8966172,-87.62857854,member,1,8
+8B32BCA9B66D2514,classic_bike,9/20/2023 15:59:14,9/20/2023 16:11:50,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.909668,-87.648128,41.8966172,-87.62857854,member,1,12
+B84F8F2DAB29114C,classic_bike,8/15/2023 18:50:16,8/15/2023 19:02:34,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.909668,-87.648128,41.8966172,-87.62857854,member,1,12
+3979632F3DC43AC5,electric_bike,5/22/2023 16:43:28,5/22/2023 16:52:42,Halsted St & Clybourn Ave,331,State St & Chicago Ave,21544,41.90952167,-87.6481275,41.8966172,-87.62857854,member,1,9
+B3D54BA4E9291754,classic_bike,6/26/2023 16:45:31,6/26/2023 17:01:03,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,member,1,15
+3E7DD577177878C0,classic_bike,4/6/2023 13:08:08,4/6/2023 13:27:11,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,casual,1,19
+95C6E970F1365952,classic_bike,9/16/2023 23:28:25,9/16/2023 23:41:51,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,casual,1,13
+965334D0B51BE9B2,classic_bike,2/11/2023 9:30:32,2/11/2023 9:45:39,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,member,1,15
+3ADE8F4826AFC499,classic_bike,1/11/2023 20:43:42,1/11/2023 20:58:11,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,member,1,14
+44C23AC36DC1A5B7,classic_bike,9/8/2023 16:12:44,9/8/2023 16:29:03,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,casual,1,16
+9D1FBEA5685B63B9,electric_bike,8/7/2023 17:17:15,8/7/2023 17:27:25,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.90950967,-87.648077,41.93758232,-87.64409781,member,1,10
+1893B2546CE723F2,classic_bike,7/3/2023 15:03:48,7/3/2023 15:18:20,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,member,1,14
+74F45632D0E24F50,classic_bike,8/7/2023 23:08:01,8/7/2023 23:27:25,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,casual,1,19
+5A7DA2F71612E243,classic_bike,3/5/2023 18:45:41,3/5/2023 19:01:21,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,member,1,15
+47039AA1A72FEA61,electric_bike,6/20/2023 17:02:35,6/20/2023 17:13:15,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.9096657,-87.64815867,41.93758232,-87.64409781,member,1,10
+FA0BCF0EC312A7E7,electric_bike,9/12/2023 17:02:55,9/12/2023 17:14:40,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.90966917,-87.64806083,41.93758232,-87.64409781,member,1,11
+EAEAF2E94084F3BF,classic_bike,7/11/2023 19:53:24,7/11/2023 20:08:36,Halsted St & Clybourn Ave,331,Broadway & Barry Ave,13137,41.909668,-87.648128,41.93758232,-87.64409781,member,1,15
+38CD1433E8C8AE29,classic_bike,6/8/2023 8:15:58,6/8/2023 8:26:36,Halsted St & Clybourn Ave,331,Desplaines St & Randolph St,15535,41.909668,-87.648128,41.88461619,-87.64457058,member,1,10
+0B1F74D5D016ECEE,classic_bike,3/7/2023 8:23:12,3/7/2023 8:35:18,Halsted St & Clybourn Ave,331,Desplaines St & Randolph St,15535,41.909668,-87.648128,41.88461619,-87.64457058,member,1,12
+C6BDB5C71EF365C8,classic_bike,2/15/2023 8:25:07,2/15/2023 8:37:47,Halsted St & Clybourn Ave,331,Desplaines St & Randolph St,15535,41.909668,-87.648128,41.88461619,-87.64457058,member,1,12
+19E0F53431F6DB2D,classic_bike,6/6/2023 8:17:10,6/6/2023 8:28:27,Halsted St & Clybourn Ave,331,Desplaines St & Randolph St,15535,41.909668,-87.648128,41.88461619,-87.64457058,member,1,11
+21061B2132D40C90,electric_bike,6/20/2023 8:18:06,6/20/2023 8:26:18,Halsted St & Clybourn Ave,331,Desplaines St & Randolph St,15535,41.909646,-87.64812367,41.88461619,-87.64457058,member,1,8
+B09F44E0F9EB1A8B,classic_bike,6/10/2023 19:17:43,6/10/2023 19:42:51,Halsted St & Clybourn Ave,331,Talman Ave & Addison St,15632,41.909668,-87.648128,41.94663583,-87.69461476,member,1,25
+1EC858582169CB84,electric_bike,10/23/2023 20:18:43,10/23/2023 20:34:16,Halsted St & Clybourn Ave,331,Talman Ave & Addison St,15632,41.9095525,-87.64809017,41.94663583,-87.69461476,member,1,15
+52114C1279A64F4E,classic_bike,4/12/2023 17:10:21,4/12/2023 17:21:38,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.909668,-87.648128,41.89675,-87.63089,member,1,11
+1C134BC7921EDECF,electric_bike,1/15/2023 19:08:29,1/15/2023 19:16:20,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.90962255,-87.64818907,41.89675,-87.63089,member,1,7
+1F7D94F4B65C69E7,classic_bike,7/4/2023 12:09:12,7/4/2023 12:21:25,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.909668,-87.648128,41.89675,-87.63089,casual,1,12
+A45F9C40AD8DC35C,classic_bike,11/13/2023 20:09:46,11/13/2023 20:22:24,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.909668,-87.648128,41.89675,-87.63089,member,1,12
+41F8432D89B875E8,electric_bike,6/5/2023 17:21:00,6/5/2023 17:28:22,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.9095577,-87.64814949,41.89675,-87.63089,member,1,7
+C1C12B2826286108,electric_bike,6/1/2023 7:34:12,6/1/2023 7:42:59,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.90963936,-87.64812648,41.89675,-87.63089,member,1,8
+A78EBCFD39AB0F29,classic_bike,6/18/2023 15:13:24,6/18/2023 15:23:57,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.909668,-87.648128,41.89675,-87.63089,member,1,10
+A5F481EEE9BD0C4F,classic_bike,11/13/2023 19:25:21,11/13/2023 19:33:54,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.909668,-87.648128,41.89675,-87.63089,member,1,8
+9DA5E2ABCF09BF80,classic_bike,5/21/2023 2:29:02,5/21/2023 2:41:30,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.909668,-87.648128,41.89675,-87.63089,casual,1,12
+41743B5504064154,docked_bike,8/6/2023 11:53:40,8/6/2023 12:03:59,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.909668,-87.648128,41.89675,-87.63089,casual,1,10
+338DF3432A56FBEE,classic_bike,8/8/2023 5:42:02,8/8/2023 5:52:05,Halsted St & Clybourn Ave,331,Clark St & Chicago Ave,13303,41.909668,-87.648128,41.89675,-87.63089,member,1,10
+091C66BD1109630A,classic_bike,10/21/2023 16:36:29,10/21/2023 17:24:07,Halsted St & Clybourn Ave,331,Calumet Ave & 33rd St,13217,41.909668,-87.648128,41.8349,-87.61793,member,1,47
+45E2316A5ED7306C,electric_bike,11/29/2023 14:09:29,11/29/2023 14:19:29,Halsted St & Clybourn Ave,331,Canal St & Adams St,13011,41.90959394,-87.64813697,41.879255,-87.639904,member,1,10
+D70C0BECBF5C7B91,electric_bike,10/8/2023 17:12:06,10/8/2023 17:24:03,Halsted St & Clybourn Ave,331,Canal St & Adams St,13011,41.90950317,-87.64805033,41.879255,-87.639904,member,1,11
+9E84B317F2592A7D,classic_bike,8/17/2023 21:10:36,8/17/2023 21:26:58,Halsted St & Clybourn Ave,331,Canal St & Madison St,13341,41.909668,-87.648128,41.882409,-87.639767,member,1,16
+EFB69FD977EA6914,electric_bike,6/27/2023 9:27:34,6/27/2023 9:38:31,Halsted St & Clybourn Ave,331,Canal St & Madison St,13341,41.9096525,-87.64803917,41.882409,-87.639767,member,1,10
+A37D7C14156D3375,classic_bike,2/12/2023 16:43:47,2/12/2023 17:05:26,Halsted St & Clybourn Ave,331,California Ave & Francis Pl (Temp),13259,41.909668,-87.648128,41.91849115,-87.6974228,member,1,21
+10BB4E779D7E4E58,electric_bike,5/19/2023 16:58:52,5/19/2023 17:06:08,Halsted St & Clybourn Ave,331,Orleans St & Hubbard St,636,41.90968359,-87.6481545,41.890028,-87.636618,member,1,7
+5C3F969CC0F8521D,classic_bike,4/9/2023 15:19:55,4/9/2023 15:31:58,Halsted St & Clybourn Ave,331,Orleans St & Hubbard St,636,41.909668,-87.648128,41.890028,-87.636618,member,1,12
+69A01442DB597E1F,electric_bike,6/28/2023 18:19:45,6/28/2023 18:28:21,Halsted St & Clybourn Ave,331,Orleans St & Hubbard St,636,41.90960683,-87.64815933,41.890028,-87.636618,casual,1,8
+B64B835EAEAB429D,electric_bike,7/5/2023 15:26:35,7/5/2023 15:40:04,Halsted St & Clybourn Ave,331,Humboldt Blvd & Armitage Ave,15651,41.90961883,-87.64810717,41.91751339,-87.70180896,member,1,13
+2F543E915CAFE0B2,electric_bike,9/12/2023 18:20:03,9/12/2023 18:27:32,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.90956683,-87.6481585,41.90345,-87.667747,member,1,7
+694D9B20D23D6521,classic_bike,7/13/2023 20:46:37,7/13/2023 20:56:17,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.909668,-87.648128,41.90345,-87.667747,casual,1,9
+0253BCC763BC86F2,classic_bike,8/8/2023 8:21:56,8/8/2023 8:30:39,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.909668,-87.648128,41.90345,-87.667747,member,1,8
+597F255BBBCC2310,electric_bike,10/14/2023 12:55:52,10/14/2023 13:03:40,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.90969167,-87.648069,41.90345,-87.667747,member,1,7
+9BC9E1AE192CB0C7,electric_bike,8/14/2023 18:33:43,8/14/2023 18:41:09,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.90955567,-87.64797083,41.90345,-87.667747,member,1,7
+0180103F037A82D3,classic_bike,1/9/2023 18:28:25,1/9/2023 18:41:00,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.909668,-87.648128,41.90345,-87.667747,member,1,12
+DB05517E587B13D7,electric_bike,9/23/2023 12:23:07,9/23/2023 12:33:44,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.90961567,-87.64812733,41.90345,-87.667747,member,1,10
+5F9D8F0615829F78,electric_bike,8/7/2023 9:26:56,8/7/2023 9:41:55,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.9095217,-87.64815831,41.90345,-87.667747,casual,1,14
+D3EF3B6E348702D4,electric_bike,7/10/2023 18:44:08,7/10/2023 19:01:32,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.9095428,-87.64818525,41.90345,-87.667747,casual,1,17
+1E4065E70E088A15,electric_bike,4/8/2023 1:36:17,4/8/2023 1:44:19,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.90953867,-87.64812733,41.90345,-87.667747,member,1,8
+47B3427EA1A46B16,classic_bike,3/30/2023 8:21:58,3/30/2023 8:29:13,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.909668,-87.648128,41.90345,-87.667747,member,1,7
+420BD3771E70F7DC,electric_bike,7/19/2023 16:11:53,7/19/2023 16:20:00,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.90957809,-87.64817464,41.90345,-87.667747,member,1,8
+6DEAA23B467BD93B,electric_bike,8/4/2023 10:26:00,8/4/2023 10:32:06,Halsted St & Clybourn Ave,331,Ashland Ave & Division St,13061,41.909498,-87.648055,41.90345,-87.667747,member,1,6
+4C64D96DD0DE4F18,classic_bike,9/2/2023 10:35:00,9/2/2023 10:51:06,Halsted St & Clybourn Ave,331,Wood St & Hubbard St,13432,41.909668,-87.648128,41.889899,-87.671473,casual,1,16
+0E1E8915D805E170,classic_bike,9/2/2023 10:34:50,9/2/2023 10:51:04,Halsted St & Clybourn Ave,331,Wood St & Hubbard St,13432,41.909668,-87.648128,41.889899,-87.671473,member,1,16
+94192AF3D6D60009,electric_bike,7/11/2023 16:35:26,7/11/2023 16:49:14,Halsted St & Clybourn Ave,331,State St & Kinzie St,13050,41.90968752,-87.64811897,41.88937547,-87.62707651,member,1,13
+25DAD8065F789C0A,classic_bike,5/19/2023 17:43:28,5/19/2023 17:56:09,Halsted St & Clybourn Ave,331,State St & Kinzie St,13050,41.909668,-87.648128,41.88937547,-87.62707651,casual,1,12
+92E12BA877FB9DCF,classic_bike,9/13/2023 21:41:26,9/13/2023 21:57:59,Halsted St & Clybourn Ave,331,State St & Kinzie St,13050,41.909668,-87.648128,41.88937547,-87.62707651,casual,1,16
+88B20F7333644D97,electric_bike,6/3/2023 16:03:16,6/3/2023 16:19:44,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.90964663,-87.64815068,41.907066,-87.667252,casual,1,16
+9F2693A7540B5651,classic_bike,7/9/2023 20:50:02,7/9/2023 20:58:20,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.909668,-87.648128,41.907066,-87.667252,member,1,8
+7900111974FB0E2C,electric_bike,6/16/2023 22:28:39,6/16/2023 22:35:34,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.90948951,-87.64811289,41.907066,-87.667252,member,1,6
+ED1699153B0B2738,classic_bike,7/23/2023 21:49:13,7/23/2023 21:56:46,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.909668,-87.648128,41.907066,-87.667252,member,1,7
+14E29BDD535D4D10,classic_bike,8/26/2023 19:15:20,8/26/2023 19:23:36,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.909668,-87.648128,41.907066,-87.667252,casual,1,8
+A50AF32C8923AA84,classic_bike,4/11/2023 12:30:52,4/11/2023 12:39:16,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.909668,-87.648128,41.907066,-87.667252,casual,1,8
+1A426AA6A3B9B7CA,classic_bike,8/15/2023 17:38:04,8/15/2023 17:47:23,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.909668,-87.648128,41.907066,-87.667252,member,1,9
+DA54B300BD442B81,classic_bike,5/15/2023 22:13:13,5/15/2023 22:20:43,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.909668,-87.648128,41.907066,-87.667252,casual,1,7
+CCAC61CF9C7A325E,electric_bike,10/21/2023 16:14:57,10/21/2023 16:25:17,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.90955937,-87.64816642,41.907066,-87.667252,member,1,10
+107A88B4D0ADA548,classic_bike,6/16/2023 18:31:44,6/16/2023 18:41:06,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.909668,-87.648128,41.907066,-87.667252,member,1,9
+2613F02E42827963,electric_bike,12/6/2022 17:50:00,12/6/2022 17:58:00,Halsted St & Clybourn Ave,331,Ashland Ave & Blackhawk St,13224,41.90969014,-87.64815486,41.907066,-87.667252,member,1,8
+AB2E41F37D7865DE,classic_bike,10/19/2023 19:36:56,10/19/2023 20:16:16,Halsted St & Clybourn Ave,331,Lakefront Trail & Bryn Mawr Ave,15576,41.909668,-87.648128,41.98404412,-87.65228122,member,1,39
+F88F401C09D3AC4D,classic_bike,9/9/2023 12:20:28,9/9/2023 12:58:31,Halsted St & Clybourn Ave,331,Lakefront Trail & Bryn Mawr Ave,15576,41.909668,-87.648128,41.98404412,-87.65228122,member,1,38
+7BEB9A8FA4A83BA5,classic_bike,4/15/2023 13:16:20,4/15/2023 13:56:28,Halsted St & Clybourn Ave,331,Lakefront Trail & Bryn Mawr Ave,15576,41.909668,-87.648128,41.98404412,-87.65228122,member,1,40
+8AEA578565E0C1A2,classic_bike,3/25/2023 13:16:02,3/25/2023 13:53:25,Halsted St & Clybourn Ave,331,Lakefront Trail & Bryn Mawr Ave,15576,41.909668,-87.648128,41.98404412,-87.65228122,member,1,37
+FC2030609D2C31CA,electric_bike,12/29/2022 23:33:00,12/30/2022 0:29:00,Halsted St & Clybourn Ave,331,DuSable Lake Shore Dr & Monroe St,13300,41.90953279,-87.64813423,41.880958,-87.616743,casual,1,56
+F3EE8EC0B795F3B7,classic_bike,6/10/2023 14:03:02,6/10/2023 15:26:34,Halsted St & Clybourn Ave,331,DuSable Lake Shore Dr & Monroe St,13300,41.909668,-87.648128,41.880958,-87.616743,casual,1,83
+1CDE9E7882AE4D5A,electric_bike,9/29/2023 10:31:54,9/29/2023 11:15:43,Halsted St & Clybourn Ave,331,DuSable Lake Shore Dr & Monroe St,13300,41.90953386,-87.64807534,41.880958,-87.616743,member,1,43
+F834E5FA587D811A,classic_bike,7/13/2023 22:44:10,7/13/2023 23:07:23,Halsted St & Clybourn Ave,331,Stockton Dr & Wrightwood Ave,13276,41.909668,-87.648128,41.93132,-87.638742,casual,1,23
+EACA4CC2693F821C,classic_bike,8/30/2023 17:29:12,8/30/2023 17:39:49,Halsted St & Clybourn Ave,331,Stockton Dr & Wrightwood Ave,13276,41.909668,-87.648128,41.93132,-87.638742,member,1,10
+AD970B4DFA059C6D,electric_bike,10/12/2023 19:42:54,10/12/2023 19:53:25,Halsted St & Clybourn Ave,331,Stockton Dr & Wrightwood Ave,13276,41.90955983,-87.648109,41.93132,-87.638742,member,1,10
+0998BE363BC363B0,classic_bike,8/7/2023 16:18:31,8/7/2023 16:32:24,Halsted St & Clybourn Ave,331,Stockton Dr & Wrightwood Ave,13276,41.909668,-87.648128,41.93132,-87.638742,casual,1,13
+FE2DB841215C2C6F,classic_bike,6/5/2023 9:25:24,6/5/2023 9:44:00,Halsted St & Clybourn Ave,331,Canal St & Jackson Blvd,13138,41.909668,-87.648128,41.877245,-87.639366,member,1,18
+7DB342A267A1B26A,electric_bike,6/1/2023 17:45:25,6/1/2023 17:57:27,Halsted St & Clybourn Ave,331,Milwaukee Ave & Wabansia Ave,13243,41.90968767,-87.648132,41.912616,-87.681391,casual,1,12
+033CD6ECA677F96C,classic_bike,5/19/2023 20:39:29,5/19/2023 20:58:45,Halsted St & Clybourn Ave,331,Milwaukee Ave & Wabansia Ave,13243,41.909668,-87.648128,41.912616,-87.681391,casual,1,19
+327DC102A5DDA9FF,classic_bike,2/9/2023 16:59:35,2/9/2023 17:12:53,Halsted St & Clybourn Ave,331,Milwaukee Ave & Wabansia Ave,13243,41.909668,-87.648128,41.912616,-87.681391,member,1,13
+2281A565927CE328,electric_bike,9/29/2023 16:21:45,9/29/2023 16:34:34,Halsted St & Clybourn Ave,331,Milwaukee Ave & Wabansia Ave,13243,41.90971683,-87.64816883,41.912616,-87.681391,casual,1,12
+2A2B93325BEA42D4,classic_bike,10/10/2023 19:45:19,10/10/2023 20:04:13,Halsted St & Clybourn Ave,331,Campbell Ave & Fullerton Ave,15648,41.909668,-87.648128,41.92463247,-87.68930701,member,1,18
+C98325C96A88FAF4,classic_bike,8/30/2023 15:17:14,8/30/2023 15:25:12,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,7
+A3B02927EB1CF6E2,classic_bike,6/17/2023 15:46:42,6/17/2023 15:54:44,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,8
+6B65112E7D70B2B5,classic_bike,7/29/2023 15:19:51,7/29/2023 15:35:14,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,casual,1,15
+3FD382F567EC2D70,classic_bike,10/22/2023 10:13:59,10/22/2023 10:27:10,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,casual,1,13
+349D28562CA58037,classic_bike,8/12/2023 11:36:23,8/12/2023 11:43:32,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,7
+B2F2463741E51938,classic_bike,7/3/2023 19:47:06,7/3/2023 19:56:10,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,9
+F13B1DC655F34097,electric_bike,10/18/2023 17:52:10,10/18/2023 17:59:55,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.90968609,-87.64812517,41.918306,-87.636282,casual,1,7
+BBC27E90157CE7BF,classic_bike,2/22/2023 19:54:08,2/22/2023 20:04:03,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,casual,1,9
+17BAEB81AB069FE3,electric_bike,8/28/2023 20:20:39,8/28/2023 20:26:49,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.9095725,-87.648122,41.918306,-87.636282,member,1,6
+1FC0F514AA203D14,classic_bike,9/29/2023 14:37:26,9/29/2023 14:43:57,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,6
+BA17EA2910CF6217,classic_bike,7/15/2023 11:48:42,7/15/2023 12:01:18,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,12
+9864845556C35EC0,classic_bike,8/25/2023 18:45:16,8/25/2023 18:57:10,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,casual,1,11
+F237524BAA9D5117,electric_bike,7/8/2023 9:57:31,7/8/2023 10:03:44,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.90951133,-87.64818382,41.918306,-87.636282,casual,1,6
+2B3FC988A1E26D2A,classic_bike,7/10/2023 17:37:10,7/10/2023 17:44:25,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,casual,1,7
+C07D783D60D9FD9F,classic_bike,8/2/2023 20:32:11,8/2/2023 20:40:24,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,8
+6AF89697FB5B667A,classic_bike,5/29/2023 12:31:26,5/29/2023 12:42:13,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,10
+34362F3DC344564F,classic_bike,6/10/2023 14:10:18,6/10/2023 14:40:05,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,casual,1,29
+4037CED2FF53D2E1,classic_bike,5/6/2023 14:58:50,5/6/2023 15:12:41,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,13
+8DB35B73794EA9CC,classic_bike,10/21/2023 13:04:33,10/21/2023 13:27:53,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,member,1,23
+8F0C16802B8EE61A,classic_bike,5/21/2023 15:02:48,5/21/2023 15:13:07,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,casual,1,10
+42B3FF4B2AE64433,classic_bike,6/6/2023 13:26:02,6/6/2023 13:34:53,Halsted St & Clybourn Ave,331,Clark St & Armitage Ave,13146,41.909668,-87.648128,41.918306,-87.636282,casual,1,8
+E677B2F65E67310F,classic_bike,10/23/2023 18:32:59,10/23/2023 19:11:03,Halsted St & Clybourn Ave,331,Broadway & Thorndale Ave,15575,41.909668,-87.648128,41.98974251,-87.66014062,member,1,38
+2569216B9065E286,classic_bike,10/28/2023 14:33:09,10/28/2023 14:41:48,Halsted St & Clybourn Ave,331,Ogden Ave & Race Ave,13194,41.90965247,-87.64812481,41.891795,-87.658751,casual,1,8
+AF48BF904F1E4AB4,electric_bike,12/18/2022 22:43:00,12/18/2022 22:50:00,Halsted St & Clybourn Ave,331,Ogden Ave & Race Ave,13194,41.9096024,-87.6481806,41.891795,-87.658751,member,1,7
+8FE6D68DC62A2457,electric_bike,8/20/2023 19:13:03,8/20/2023 19:31:57,Halsted St & Clybourn Ave,331,Albany Ave & Bloomingdale Ave,15655,41.90953867,-87.64815333,41.91402671,-87.70512646,casual,1,18
+91F8DAADA07571BB,electric_bike,10/14/2023 18:22:57,10/14/2023 18:41:19,Halsted St & Clybourn Ave,331,Desplaines St & Randolph St,15535,41.90957248,-87.64817572,41.883703,-87.644238,member,1,18
+48ACEAB2C4B0477D,electric_bike,12/16/2022 13:40:00,12/16/2022 14:02:00,Halsted St & Clybourn Ave,331,Michigan Ave & Madison St,13036,41.90962148,-87.648157,41.882134,-87.625125,casual,1,22
+47E9DD083E566202,classic_bike,2/12/2023 15:25:39,2/12/2023 15:48:18,Halsted St & Clybourn Ave,331,Michigan Ave & Madison St,13036,41.909668,-87.648128,41.882134,-87.625125,casual,1,22
+7A31CFCFB5D4DAA8,classic_bike,11/5/2023 15:40:33,11/5/2023 16:01:55,Halsted St & Clybourn Ave,331,Michigan Ave & Madison St,13036,41.909668,-87.648128,41.882134,-87.625125,member,1,21
+2AB03115DD90A226,classic_bike,4/8/2023 19:04:47,4/8/2023 19:28:06,Halsted St & Clybourn Ave,331,Loomis St & Lexington St,13332,41.909668,-87.648128,41.87222873,-87.66136386,member,1,23
+AE7F7EE8588803AB,electric_bike,9/26/2023 21:04:52,9/26/2023 21:29:05,Halsted St & Clybourn Ave,331,Loomis St & Lexington St,13332,41.909585,-87.6480685,41.87222873,-87.66136386,casual,1,24
+21417555F171CC03,classic_bike,6/15/2023 18:29:59,6/15/2023 18:37:39,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.909668,-87.648128,41.915689,-87.6346,casual,1,7
+A381D8573D7D6A36,electric_bike,5/27/2023 10:56:04,5/27/2023 11:03:10,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.90963578,-87.64812625,41.915689,-87.6346,casual,1,7
+33A997B944F30DFB,classic_bike,5/2/2023 20:13:06,5/2/2023 20:20:44,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.909668,-87.648128,41.915689,-87.6346,casual,1,7
+D8B7406DDD6BF01F,electric_bike,8/9/2023 17:10:02,8/9/2023 17:16:43,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.90958767,-87.64811383,41.915689,-87.6346,member,1,6
+603ED9A3949C7760,classic_bike,6/14/2023 21:49:04,6/14/2023 22:03:06,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.909668,-87.648128,41.915689,-87.6346,member,1,14
+3695CE54FA95B7B9,classic_bike,4/1/2023 14:34:16,4/1/2023 14:44:49,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.909668,-87.648128,41.915689,-87.6346,casual,1,10
+4DFFA0EF60E3CEFD,classic_bike,9/27/2023 20:17:37,9/27/2023 20:28:22,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.909668,-87.648128,41.915689,-87.6346,member,1,10
+795D59AF0D23E177,classic_bike,8/19/2023 12:00:10,8/19/2023 12:09:18,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.909668,-87.648128,41.915689,-87.6346,casual,1,9
+2A9DD4B1EFB68165,electric_bike,5/27/2023 8:04:59,5/27/2023 8:11:33,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.90946567,-87.64815891,41.915689,-87.6346,member,1,6
+A1669FF3AE125738,classic_bike,9/24/2023 17:08:13,9/24/2023 17:17:56,Halsted St & Clybourn Ave,331,Clark St & Lincoln Ave,13179,41.909668,-87.648128,41.915689,-87.6346,member,1,9
+C5DC0C9837A279DA,electric_bike,7/5/2023 9:52:30,7/5/2023 10:06:21,Halsted St & Clybourn Ave,331,Peoria St & Jackson Blvd,13158,41.90963483,-87.64811533,41.8776416,-87.64961779,member,1,13
+E40C68FE1E2B0078,electric_bike,5/11/2023 18:14:32,5/11/2023 18:27:12,Halsted St & Clybourn Ave,331,Michigan Ave & Oak St,13042,41.90966213,-87.64814448,41.90096039,-87.62377664,casual,1,12
+876528ED38324063,classic_bike,7/13/2023 18:47:40,7/13/2023 19:00:07,Halsted St & Clybourn Ave,331,Michigan Ave & Oak St,13042,41.909668,-87.648128,41.90096039,-87.62377664,member,1,12
+17C516A9A81EDBBF,electric_bike,7/21/2023 23:04:54,7/21/2023 23:16:39,Halsted St & Clybourn Ave,331,Michigan Ave & Oak St,13042,41.90956467,-87.648122,41.90096039,-87.62377664,member,1,11
+D0E5A0E8A4951191,classic_bike,5/23/2023 16:16:51,5/23/2023 16:45:04,Halsted St & Clybourn Ave,331,Michigan Ave & Oak St,13042,41.909668,-87.648128,41.90096039,-87.62377664,casual,1,28
+D398738669AD406B,classic_bike,6/19/2023 15:53:42,6/19/2023 16:09:45,Halsted St & Clybourn Ave,331,Michigan Ave & Oak St,13042,41.909668,-87.648128,41.90096039,-87.62377664,member,1,16
+A3B4BE8971F94125,classic_bike,8/21/2023 13:55:10,8/21/2023 14:23:57,Halsted St & Clybourn Ave,331,Michigan Ave & Oak St,13042,41.909668,-87.648128,41.90096039,-87.62377664,member,1,28
+1D00F22398770F2E,classic_bike,8/30/2023 11:15:58,8/30/2023 11:28:12,Halsted St & Clybourn Ave,331,Mies van der Rohe Way & Chestnut St,15529,41.909668,-87.648128,41.89858665,-87.62191523,member,1,12
+B6B306C1CE38D4C8,electric_bike,5/4/2023 20:43:17,5/4/2023 20:52:04,Halsted St & Clybourn Ave,331,Mies van der Rohe Way & Chestnut St,15529,41.90971446,-87.64814365,41.89858665,-87.62191523,member,1,8
+D2DD0C26B39236CA,classic_bike,4/18/2023 7:05:02,4/18/2023 7:15:26,Halsted St & Clybourn Ave,331,Mies van der Rohe Way & Chestnut St,15529,41.909668,-87.648128,41.89858665,-87.62191523,member,1,10
+326CA94EEB6C2A09,classic_bike,11/30/2023 23:57:25,12/1/2023 0:19:04,Halsted St & Clybourn Ave,331,Ashland Ave & Belle Plaine Ave,13249,41.909668,-87.648128,41.956057,-87.668835,member,1,21
+BA6ED2B36BC0CB05,electric_bike,4/13/2023 18:50:47,4/13/2023 18:59:58,Halsted St & Clybourn Ave,331,Halsted St & Fulton St,23003,41.90964603,-87.64811552,41.89,-87.65,casual,1,9
+43F32DF82A77BE88,electric_bike,12/9/2022 17:54:00,12/9/2022 18:03:00,Halsted St & Clybourn Ave,331,N Green St & W Lake St,20246,41.90969783,-87.64810283,41.89,-87.65,casual,1,9
+633209EADE891861,electric_bike,4/13/2023 18:50:47,4/13/2023 19:00:04,Halsted St & Clybourn Ave,331,Halsted St & Fulton St,23003,41.90964007,-87.64817846,41.89,-87.65,member,1,9
+C972F09D63CFE013,electric_bike,3/28/2023 17:11:04,3/28/2023 17:20:28,Halsted St & Clybourn Ave,331,Halsted St & Fulton St,23003,41.90951783,-87.64811667,41.89,-87.65,member,1,9
+E6DD96F7E48200B6,classic_bike,9/14/2023 8:14:59,9/14/2023 8:33:07,Halsted St & Clybourn Ave,331,Clinton St & Lake St,13021,41.909668,-87.648128,41.885637,-87.641823,casual,1,18
+95E88AD11CBB6478,electric_bike,11/14/2023 15:03:46,11/14/2023 15:16:14,Halsted St & Clybourn Ave,331,Clinton St & Lake St,13021,41.90954,-87.64809317,41.885637,-87.641823,member,1,12
+2458D6E116E8AA3D,classic_bike,7/9/2023 15:26:28,7/9/2023 15:39:41,Halsted St & Clybourn Ave,331,Clinton St & Lake St,13021,41.909668,-87.648128,41.885637,-87.641823,casual,1,13
+0211F30B5CE7D9AA,electric_bike,4/5/2023 14:36:43,4/5/2023 14:46:30,Halsted St & Clybourn Ave,331,Clinton St & Lake St,13021,41.90953744,-87.64809609,41.885637,-87.641823,member,1,9
+34FF755DBCFCAAFF,electric_bike,11/14/2023 20:00:32,11/14/2023 20:15:19,Halsted St & Clybourn Ave,331,Clinton St & Jackson Blvd,638,41.90960217,-87.6481295,41.87831661,-87.64098108,member,1,14
+9AFDAAC52292D0B1,electric_bike,4/21/2023 21:00:41,4/21/2023 21:21:49,Halsted St & Clybourn Ave,331,Clinton St & Jackson Blvd,638,41.90959683,-87.64812467,41.87831661,-87.64098108,member,1,21
+72FF0ECEFCCAA5C8,electric_bike,8/12/2023 9:07:50,8/12/2023 9:22:09,Halsted St & Clybourn Ave,331,Clinton St & Jackson Blvd,638,41.909502,-87.64806917,41.87831661,-87.64098108,casual,1,14
+4E03E49E569ECA1F,classic_bike,6/19/2023 14:38:40,6/19/2023 15:06:55,Halsted St & Clybourn Ave,331,Halsted St & 18th St,13099,41.909668,-87.648128,41.85750568,-87.64599144,member,1,28
+8967E55F17E3694B,electric_bike,7/10/2023 16:08:00,7/10/2023 16:33:07,Halsted St & Clybourn Ave,331,Broadway & Argyle St,13108,41.90951979,-87.64821804,41.973815,-87.65966,casual,1,25
+ADB5255CE1DD61A3,electric_bike,5/22/2023 15:49:37,5/22/2023 16:04:31,Halsted St & Clybourn Ave,331,Broadway & Sheridan Rd,13323,41.90953133,-87.64814483,41.952833,-87.649993,member,1,14
+8036417D93743FC0,electric_bike,6/5/2023 18:23:38,6/5/2023 18:41:09,Halsted St & Clybourn Ave,331,Broadway & Sheridan Rd,13323,41.90964117,-87.64810767,41.952833,-87.649993,casual,1,17
+B782C2468A72B9F4,electric_bike,2/24/2023 17:46:11,2/24/2023 18:00:58,Halsted St & Clybourn Ave,331,Broadway & Sheridan Rd,13323,41.90967012,-87.64814818,41.952833,-87.649993,member,1,14
+BAAD92D513F4BD72,classic_bike,10/10/2023 17:57:33,10/10/2023 18:16:16,Halsted St & Clybourn Ave,331,Broadway & Sheridan Rd,13323,41.909668,-87.648128,41.952833,-87.649993,member,1,18
+4848F28AB5C6ED9A,electric_bike,8/22/2023 17:32:46,8/22/2023 17:45:06,Halsted St & Clybourn Ave,331,Broadway & Sheridan Rd,13323,41.909536,-87.64809382,41.952833,-87.649993,casual,1,12
+D9BCABD4D84E8422,classic_bike,7/5/2023 11:17:14,7/5/2023 12:03:11,Halsted St & Clybourn Ave,331,Streeter Dr & Grand Ave,13022,41.909668,-87.648128,41.892278,-87.612043,casual,1,45
+10158FB5516740B9,classic_bike,2/11/2023 9:19:27,2/11/2023 9:36:56,Halsted St & Clybourn Ave,331,Streeter Dr & Grand Ave,13022,41.909668,-87.648128,41.892278,-87.612043,casual,1,17
+0E0C59BF0B7C5688,classic_bike,9/7/2023 16:39:55,9/7/2023 16:55:53,Halsted St & Clybourn Ave,331,Streeter Dr & Grand Ave,13022,41.909668,-87.648128,41.892278,-87.612043,member,1,15
+0168083DA627B164,classic_bike,4/9/2023 10:00:06,4/9/2023 11:50:01,Halsted St & Clybourn Ave,331,Streeter Dr & Grand Ave,13022,41.909668,-87.648128,41.892278,-87.612043,casual,1,109
+438C28D773206846,classic_bike,5/6/2023 13:34:44,5/6/2023 14:18:19,Halsted St & Clybourn Ave,331,Streeter Dr & Grand Ave,13022,41.909668,-87.648128,41.892278,-87.612043,casual,1,43
+D4D4984B86D4F6A0,classic_bike,5/30/2023 18:44:53,5/30/2023 18:59:33,Halsted St & Clybourn Ave,331,Streeter Dr & Grand Ave,13022,41.909668,-87.648128,41.892278,-87.612043,member,1,14
+E5D47FB618B1F190,classic_bike,6/21/2023 20:20:33,6/21/2023 20:41:25,Halsted St & Clybourn Ave,331,Streeter Dr & Grand Ave,13022,41.909668,-87.648128,41.892278,-87.612043,casual,1,20
+05CCB042643E5CD0,classic_bike,6/30/2023 14:20:45,6/30/2023 14:34:52,Halsted St & Clybourn Ave,331,Green St & Washington Blvd,13053,41.909668,-87.648128,41.88318131,-87.64872462,member,1,14
+3BDCAC337A496D46,classic_bike,6/21/2023 20:40:22,6/21/2023 20:58:03,Halsted St & Clybourn Ave,331,Green St & Washington Blvd,13053,41.909668,-87.648128,41.88318131,-87.64872462,member,1,17
+FAE6BCAE3E6DACC5,classic_bike,7/22/2023 16:32:37,7/22/2023 16:47:11,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.909668,-87.648128,41.893992,-87.629318,casual,1,14
+E2373BC88C3AAB7F,electric_bike,6/29/2023 14:58:17,6/29/2023 15:06:26,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.90965217,-87.64810267,41.893992,-87.629318,member,1,8
+DC378472F9C56B02,classic_bike,4/8/2023 9:04:15,4/8/2023 9:16:46,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.909668,-87.648128,41.893992,-87.629318,casual,1,12
+A14591F52FDC3CF1,electric_bike,7/11/2023 17:45:04,7/11/2023 17:54:11,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.90961599,-87.64816392,41.893992,-87.629318,member,1,9
+819AF9164F900993,classic_bike,10/16/2023 20:28:57,10/16/2023 20:38:10,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.909668,-87.648128,41.893992,-87.629318,member,1,9
+49793C0772695015,classic_bike,5/28/2023 14:15:19,5/28/2023 14:34:17,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.909668,-87.648128,41.893992,-87.629318,member,1,18
+F20087E443153D4A,classic_bike,10/6/2023 19:17:41,10/6/2023 19:33:16,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.909668,-87.648128,41.893992,-87.629318,casual,1,15
+EF1871C375AA6972,classic_bike,5/13/2023 11:03:51,5/13/2023 11:17:54,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.909668,-87.648128,41.893992,-87.629318,member,1,14
+5EB3DBBEFC733828,electric_bike,5/12/2023 14:16:44,5/12/2023 14:26:31,Halsted St & Clybourn Ave,331,Dearborn St & Erie St,13045,41.90948867,-87.64808467,41.893992,-87.629318,member,1,9
+8A99B0B8FC6CACD8,classic_bike,7/25/2023 21:03:40,7/25/2023 21:24:15,Halsted St & Clybourn Ave,331,Damen Ave & Division St,13136,41.909668,-87.648128,41.903266,-87.678435,casual,1,20
+A0C123886C611304,classic_bike,7/30/2023 13:19:08,7/30/2023 13:31:07,Halsted St & Clybourn Ave,331,Damen Ave & Division St,13136,41.909668,-87.648128,41.903266,-87.678435,member,1,11
+DCD4080E074DD40C,classic_bike,5/29/2023 23:01:19,5/29/2023 23:14:43,Halsted St & Clybourn Ave,331,Damen Ave & Division St,13136,41.909668,-87.648128,41.903266,-87.678435,casual,1,13
+173A6DCFC4745C74,electric_bike,2/23/2023 16:53:27,2/23/2023 17:02:59,Halsted St & Clybourn Ave,331,Damen Ave & Division St,13136,41.90959704,-87.64813614,41.903266,-87.678435,member,1,9
+D78309C2750455D0,classic_bike,9/18/2023 18:59:44,9/18/2023 19:21:15,Halsted St & Clybourn Ave,331,Seeley Ave & Roscoe St,13144,41.909668,-87.648128,41.943403,-87.679618,casual,1,21
+81FF71EF9DECCAA5,electric_bike,11/2/2023 18:34:28,11/2/2023 18:49:45,Halsted St & Clybourn Ave,331,Stave St & Armitage Ave,13266,41.9096245,-87.648076,41.917741,-87.691392,member,1,15
+252D4917669D3575,electric_bike,10/22/2023 18:09:28,10/22/2023 18:26:01,Halsted St & Clybourn Ave,331,Stave St & Armitage Ave,13266,41.9096855,-87.64812683,41.917741,-87.691392,member,1,16
+190EBB26F0F4CD9E,electric_bike,4/20/2023 21:11:32,4/20/2023 21:18:37,Halsted St & Clybourn Ave,331,Carpenter St & Huron St,13196,41.90949833,-87.6480935,41.894556,-87.653449,member,1,7
+C40BFBF6E253AEE1,electric_bike,2/28/2023 18:31:21,2/28/2023 18:37:54,Halsted St & Clybourn Ave,331,Carpenter St & Huron St,13196,41.90979552,-87.64811933,41.894556,-87.653449,casual,1,6
+8276A42357E929F3,electric_bike,4/27/2023 23:05:05,4/27/2023 23:10:35,Halsted St & Clybourn Ave,331,Carpenter St & Huron St,13196,41.909517,-87.64810433,41.894556,-87.653449,member,1,5
+A36DF96798FD6801,electric_bike,5/25/2023 21:01:03,5/25/2023 21:06:00,Halsted St & Clybourn Ave,331,Carpenter St & Huron St,13196,41.90963614,-87.64817584,41.894556,-87.653449,member,1,4
+79AD85EA782EEB79,classic_bike,8/23/2023 14:35:12,8/23/2023 14:44:26,Halsted St & Clybourn Ave,331,Carpenter St & Huron St,13196,41.909668,-87.648128,41.894556,-87.653449,member,1,9
+4BF545AAF4D244C2,classic_bike,8/30/2023 21:12:43,8/30/2023 21:21:12,Halsted St & Clybourn Ave,331,Carpenter St & Huron St,13196,41.909668,-87.648128,41.894556,-87.653449,member,1,8
+9DCF1B700857EF6D,electric_bike,2/25/2023 15:08:58,2/25/2023 15:14:41,Halsted St & Clybourn Ave,331,Carpenter St & Huron St,13196,41.909558,-87.6480945,41.894556,-87.653449,member,1,5
+96EC1E2C9DD99304,electric_bike,6/16/2023 16:34:34,6/16/2023 16:46:18,Halsted St & Clybourn Ave,331,Sangamon St & Washington Blvd,13409,41.90953338,-87.64814365,41.883165,-87.6511,member,1,11
+3BD70441BDCCA583,classic_bike,6/14/2023 20:59:58,6/14/2023 21:19:48,Halsted St & Clybourn Ave,331,Kedzie Ave & Milwaukee Ave,13085,41.909668,-87.648128,41.929567,-87.707857,casual,1,19
+500FC7736D848BD7,classic_bike,5/16/2023 6:29:31,5/16/2023 6:42:02,Halsted St & Clybourn Ave,331,St. Clair St & Erie St,13016,41.909668,-87.648128,41.89434514,-87.62279838,member,1,12
+0BE93CDBFE956CD4,classic_bike,10/1/2023 11:46:51,10/1/2023 12:02:44,Halsted St & Clybourn Ave,331,St. Clair St & Erie St,13016,41.909668,-87.648128,41.89434514,-87.62279838,casual,1,15
+AB79FCF3E2C67B61,classic_bike,6/5/2023 14:17:42,6/5/2023 14:34:37,Halsted St & Clybourn Ave,331,St. Clair St & Erie St,13016,41.909668,-87.648128,41.89434514,-87.62279838,member,1,16
+079CCAD8395CEC3F,classic_bike,1/3/2023 7:05:01,1/3/2023 7:18:35,Halsted St & Clybourn Ave,331,St. Clair St & Erie St,13016,41.909668,-87.648128,41.89434514,-87.62279838,member,1,13
+288AB5F130EF8E2F,classic_bike,9/7/2023 7:38:13,9/7/2023 7:52:08,Halsted St & Clybourn Ave,331,St. Clair St & Erie St,13016,41.909668,-87.648128,41.89434514,-87.62279838,member,1,13
+01082266870B2D60,classic_bike,9/10/2023 19:59:26,9/10/2023 20:18:11,Halsted St & Clybourn Ave,331,St. Clair St & Erie St,13016,41.909668,-87.648128,41.89434514,-87.62279838,member,1,18
+5ED88A7421B2E5FB,electric_bike,2/20/2023 11:56:22,2/20/2023 12:06:32,Halsted St & Clybourn Ave,331,Damen Ave & Clybourn Ave,13271,41.90968585,-87.64814937,41.931931,-87.677856,member,1,10
+4C8153F1665C306F,electric_bike,1/22/2023 11:11:37,1/22/2023 11:24:59,Halsted St & Clybourn Ave,331,Damen Ave & Clybourn Ave,13271,41.90955782,-87.64821231,41.931931,-87.677856,member,1,13
+79EB8C2109AD4E31,classic_bike,5/27/2023 9:30:02,5/27/2023 9:45:32,Halsted St & Clybourn Ave,331,Damen Ave & Clybourn Ave,13271,41.909668,-87.648128,41.931931,-87.677856,member,1,15
+2A7D87E5EF0794B0,classic_bike,4/13/2023 20:36:55,4/13/2023 20:59:47,Halsted St & Clybourn Ave,331,Richmond St & Diversey Ave,15645,41.909668,-87.648128,41.93190197,-87.70119513,member,1,22
+335BF84C4D3C1853,classic_bike,8/6/2023 2:45:48,8/6/2023 3:04:34,Halsted St & Clybourn Ave,331,Desplaines St & Jackson Blvd,15539,41.909668,-87.648128,41.8781189,-87.6439476,member,1,18
+C48B3F49D1716326,classic_bike,3/18/2023 16:26:48,3/18/2023 16:51:14,Halsted St & Clybourn Ave,331,Desplaines St & Jackson Blvd,15539,41.909668,-87.648128,41.8781189,-87.6439476,member,1,24
+B9DA065757DB7456,classic_bike,7/22/2023 12:54:02,7/22/2023 13:10:24,Halsted St & Clybourn Ave,331,Desplaines St & Jackson Blvd,15539,41.909668,-87.648128,41.8781189,-87.6439476,member,1,16
+468AC56AED9A2027,electric_bike,5/19/2023 7:03:07,5/19/2023 7:13:56,Halsted St & Clybourn Ave,331,Desplaines St & Jackson Blvd,15539,41.90957533,-87.64810633,41.8781189,-87.6439476,member,1,10
+1E979C148F51766C,electric_bike,3/27/2023 9:21:05,3/27/2023 9:33:31,Halsted St & Clybourn Ave,331,Aberdeen St & Monroe St,13156,41.90948517,-87.648093,41.880419,-87.655519,member,1,12
+F15F183D7B79EE67,electric_bike,4/23/2023 10:07:35,4/23/2023 10:17:57,Halsted St & Clybourn Ave,331,Aberdeen St & Monroe St,13156,41.90954709,-87.6481545,41.880419,-87.655519,member,1,10
+1F086F10C65810FF,electric_bike,7/31/2023 7:34:22,7/31/2023 7:46:49,Halsted St & Clybourn Ave,331,Aberdeen St & Monroe St,13156,41.90962233,-87.6481325,41.880419,-87.655519,member,1,12
+AA83CF91F8FBF663,electric_bike,6/26/2023 8:34:32,6/26/2023 8:46:14,Halsted St & Clybourn Ave,331,Aberdeen St & Monroe St,13156,41.90965247,-87.64817655,41.880419,-87.655519,member,1,11
+D9E78362DCC31293,electric_bike,5/29/2023 14:59:11,5/29/2023 15:14:50,Halsted St & Clybourn Ave,331,California Ave & Division St,13256,41.90952483,-87.64813183,41.903029,-87.697474,casual,1,15
+31F2A13A50FD1F18,classic_bike,3/22/2023 10:01:47,3/22/2023 10:24:21,Halsted St & Clybourn Ave,331,California Ave & Division St,13256,41.909668,-87.648128,41.903029,-87.697474,member,1,22
+3D7EBA0C399AFEB5,classic_bike,1/24/2023 8:10:36,1/24/2023 8:24:09,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.909668,-87.648128,41.89576475,-87.62590803,member,1,13
+EFA7F7953EADA695,classic_bike,9/12/2023 8:47:11,9/12/2023 8:57:08,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.909668,-87.648128,41.89576475,-87.62590803,member,1,9
+310ADB2EE923DAA8,electric_bike,7/21/2023 16:46:43,7/21/2023 17:00:20,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.9095639,-87.64813364,41.89576475,-87.62590803,member,1,13
+10A23767D9E3068E,electric_bike,5/25/2023 10:50:44,5/25/2023 10:58:30,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.90949452,-87.64807928,41.89576475,-87.62590803,member,1,7
+47B3E86AAF1B308F,classic_bike,3/28/2023 8:45:46,3/28/2023 8:56:43,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.909668,-87.648128,41.89576475,-87.62590803,member,1,10
+6416C5B315E2E835,classic_bike,10/7/2023 12:30:00,10/7/2023 12:52:49,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.909668,-87.648128,41.89576475,-87.62590803,casual,1,22
+99399EB98D3A7D16,electric_bike,6/18/2023 17:53:43,6/18/2023 18:02:09,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.90970567,-87.648107,41.89576475,-87.62590803,member,1,8
+0A9E99EDFBE67042,classic_bike,11/11/2023 11:13:04,11/11/2023 11:27:20,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.909668,-87.648128,41.89576475,-87.62590803,member,1,14
+DCDD4E11554B664E,classic_bike,10/30/2023 8:49:02,10/30/2023 9:00:58,Halsted St & Clybourn Ave,331,Rush St & Superior St,15530,41.909668,-87.648128,41.89576475,-87.62590803,member,1,11
+BAFC095A54649221,classic_bike,8/17/2023 16:50:48,8/17/2023 17:14:07,Halsted St & Clybourn Ave,331,Damen Ave & Wellington Ave,13268,41.909668,-87.648128,41.93588,-87.67842,casual,1,23
+3AB8582080BD300A,electric_bike,8/7/2023 18:43:41,8/7/2023 18:54:20,Halsted St & Clybourn Ave,331,Damen Ave & Wellington Ave,13268,41.90960933,-87.6481145,41.93588,-87.67842,member,1,10
+51C6793AD985E95F,electric_bike,9/26/2023 18:07:15,9/26/2023 18:18:27,Halsted St & Clybourn Ave,331,Damen Ave & Wellington Ave,13268,41.90966233,-87.648135,41.93588,-87.67842,member,1,11
+450DFE0DC25A810E,electric_bike,6/20/2023 7:55:52,6/20/2023 8:06:04,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.90955033,-87.64809567,41.890762,-87.631697,member,1,10
+D859C2C962D0015F,electric_bike,9/12/2023 7:59:13,9/12/2023 8:09:50,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.9095535,-87.64816167,41.890762,-87.631697,member,1,10
+48FE8C27A3BA5CED,classic_bike,4/15/2023 20:03:31,4/15/2023 20:42:45,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.909668,-87.648128,41.890762,-87.631697,casual,1,39
+403EEE84FCA1C852,electric_bike,4/21/2023 16:58:56,4/21/2023 17:14:24,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.90973115,-87.64825261,41.890762,-87.631697,member,1,15
+212D22BDC982F738,classic_bike,5/18/2023 11:41:35,5/18/2023 11:53:16,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.909668,-87.648128,41.890762,-87.631697,member,1,11
+EBA6B5AB9B18EC5A,classic_bike,9/7/2023 6:48:36,9/7/2023 6:58:40,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.909668,-87.648128,41.890762,-87.631697,casual,1,10
+BC96BAB335AA031F,electric_bike,4/26/2023 19:28:22,4/26/2023 19:39:24,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.90952633,-87.648044,41.890762,-87.631697,member,1,11
+282066724AF0AE70,electric_bike,6/8/2023 9:19:46,6/8/2023 9:28:36,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.90952349,-87.64812744,41.890762,-87.631697,member,1,8
+ED48D00ABDAA2A9E,classic_bike,9/7/2023 19:43:50,9/7/2023 19:57:58,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.909668,-87.648128,41.890762,-87.631697,member,1,14
+F2F59A309556B748,classic_bike,7/15/2023 18:47:24,7/15/2023 19:00:34,Halsted St & Clybourn Ave,331,LaSalle St & Illinois St,13430,41.909668,-87.648128,41.890762,-87.631697,member,1,13
+EA05A842457DDF97,electric_bike,5/9/2023 22:17:21,5/9/2023 22:28:01,Halsted St & Clybourn Ave,331,Campbell Ave & North Ave,13257,41.90957701,-87.64817536,41.910535,-87.689556,casual,1,10
+D71A85C21255F77F,electric_bike,8/27/2023 2:53:18,8/27/2023 3:06:35,Halsted St & Clybourn Ave,331,Campbell Ave & North Ave,13257,41.90962231,-87.64816475,41.910535,-87.689556,casual,1,13
+C4737300922FE689,classic_bike,4/9/2023 16:09:37,4/9/2023 16:28:00,Halsted St & Clybourn Ave,331,Campbell Ave & North Ave,13257,41.909668,-87.648128,41.910535,-87.689556,member,1,18
+96D4FC2C210DD780,classic_bike,4/20/2023 8:20:00,4/20/2023 8:41:09,Halsted St & Clybourn Ave,331,Campbell Ave & North Ave,13257,41.909668,-87.648128,41.910535,-87.689556,member,1,21
+2EACF62353D748EC,classic_bike,11/15/2023 18:32:00,11/15/2023 18:51:57,Halsted St & Clybourn Ave,331,Campbell Ave & North Ave,13257,41.909668,-87.648128,41.910535,-87.689556,member,1,19
+851A6DBFB0EA2A4E,classic_bike,7/30/2023 13:09:00,7/30/2023 13:19:33,Halsted St & Clybourn Ave,331,Wood St & Milwaukee Ave,13221,41.909668,-87.648128,41.907655,-87.672552,casual,1,10
+702382EDDDCC4F93,electric_bike,7/20/2023 22:18:39,7/20/2023 22:36:06,Halsted St & Clybourn Ave,331,Wood St & Milwaukee Ave,13221,41.909636,-87.64812667,41.907655,-87.672552,casual,1,17
+43D9E35452381B64,classic_bike,9/16/2023 21:26:09,9/16/2023 21:41:25,Halsted St & Clybourn Ave,331,Wood St & Milwaukee Ave,13221,41.909668,-87.648128,41.907655,-87.672552,member,1,15
+31B14DCB1921F391,electric_bike,5/3/2023 9:45:04,5/3/2023 9:52:34,Halsted St & Clybourn Ave,331,Wood St & Milwaukee Ave,13221,41.90966511,-87.64811325,41.907655,-87.672552,member,1,7
+95FFBBA7E3D01BE3,classic_bike,7/15/2023 16:27:33,7/15/2023 16:45:10,Halsted St & Clybourn Ave,331,Wood St & Milwaukee Ave,13221,41.909668,-87.648128,41.907655,-87.672552,casual,1,17
+2D8AD6D439C5F363,classic_bike,10/1/2023 19:36:51,10/1/2023 20:01:11,Halsted St & Clybourn Ave,331,Wood St & Milwaukee Ave,13221,41.909668,-87.648128,41.907655,-87.672552,member,1,24
+5B14982CA02CC03C,classic_bike,10/23/2023 19:39:50,10/23/2023 19:58:47,Halsted St & Clybourn Ave,331,Racine Ave & Washington Blvd,654,41.909668,-87.648128,41.883073,-87.656952,casual,1,18
+2ED7077BDCADA967,electric_bike,6/23/2023 10:48:24,6/23/2023 10:59:04,Halsted St & Clybourn Ave,331,Racine Ave & Washington Blvd,654,41.90958917,-87.64818013,41.883073,-87.656952,member,1,10
+99031EF711BA745E,electric_bike,4/15/2023 22:29:52,4/15/2023 22:43:11,Halsted St & Clybourn Ave,331,Racine Ave & Washington Blvd,654,41.90956433,-87.64812683,41.883073,-87.656952,casual,1,13
+210D06DE2410B4A6,classic_bike,7/18/2023 19:59:29,7/18/2023 20:27:18,Halsted St & Clybourn Ave,331,Blue Island Ave & 18th St,13135,41.909668,-87.648128,41.857556,-87.661535,member,1,27
+93AF0921061E2765,electric_bike,9/27/2023 14:34:09,9/27/2023 14:46:01,Halsted St & Clybourn Ave,331,Milwaukee Ave & Rockwell St,13242,41.909688,-87.64812625,41.92019556,-87.6926592,member,1,11
+28EC8A1CCADA6A4B,classic_bike,7/27/2023 13:50:09,7/27/2023 14:06:41,Halsted St & Clybourn Ave,331,Milwaukee Ave & Rockwell St,13242,41.909668,-87.648128,41.92019556,-87.6926592,member,1,16
+63842028FB8CEF08,classic_bike,6/9/2023 14:42:53,6/9/2023 15:02:12,Halsted St & Clybourn Ave,331,Milwaukee Ave & Rockwell St,13242,41.909668,-87.648128,41.92019556,-87.6926592,casual,1,19
+023277EE87622B3B,classic_bike,5/30/2023 14:33:52,5/30/2023 15:00:25,Halsted St & Clybourn Ave,331,Sheridan Rd & Irving Park Rd,13063,41.909668,-87.648128,41.954245,-87.654406,member,1,26
+0CFDC43F3EDFED5E,classic_bike,4/15/2023 11:44:23,4/15/2023 12:07:50,Halsted St & Clybourn Ave,331,Sheridan Rd & Irving Park Rd,13063,41.909668,-87.648128,41.954245,-87.654406,member,1,23
+AFBD5845B181B726,classic_bike,7/28/2023 19:47:08,7/28/2023 19:56:36,Halsted St & Clybourn Ave,331,Wells St & Institute Pl,22001,41.909668,-87.648128,41.89737986,-87.63442039,member,1,9
+4006E39564C15FBB,classic_bike,8/19/2023 17:26:12,8/19/2023 17:35:26,Halsted St & Clybourn Ave,331,Wells St & Institute Pl,22001,41.909668,-87.648128,41.89737986,-87.63442039,member,1,9
+9A2D87CC40B6541E,classic_bike,11/19/2023 15:12:39,11/19/2023 15:20:08,Halsted St & Clybourn Ave,331,Wells St & Institute Pl,22001,41.909668,-87.648128,41.89737986,-87.63442039,member,1,7
+D9BB35A0A1F1A3F7,electric_bike,4/26/2023 20:13:35,4/26/2023 20:21:39,Halsted St & Clybourn Ave,331,Wells St & Institute Pl,22001,41.90956628,-87.64820254,41.89737986,-87.63442039,casual,1,8
+DF7D9577BFCD4C59,classic_bike,7/3/2023 18:35:52,7/3/2023 18:47:22,Halsted St & Clybourn Ave,331,Damen Ave & Cortland St,13133,41.909668,-87.648128,41.915983,-87.677335,member,1,11
+B174EA66255CDDBE,electric_bike,1/12/2023 19:12:21,1/12/2023 19:21:33,Halsted St & Clybourn Ave,331,Damen Ave & Cortland St,13133,41.9095856,-87.6481384,41.915983,-87.677335,member,1,9
+C08E01A2683A364A,electric_bike,7/8/2023 19:48:42,7/8/2023 19:57:46,Halsted St & Clybourn Ave,331,Damen Ave & Cortland St,13133,41.9096725,-87.64812833,41.915983,-87.677335,member,1,9
+AE424348CD32B937,electric_bike,8/9/2023 17:06:47,8/9/2023 17:15:24,Halsted St & Clybourn Ave,331,Damen Ave & Cortland St,13133,41.9095665,-87.6481215,41.915983,-87.677335,member,1,8
+B4639BF5D87B3319,classic_bike,8/3/2023 11:39:47,8/3/2023 11:53:40,Halsted St & Clybourn Ave,331,Damen Ave & Cortland St,13133,41.909668,-87.648128,41.915983,-87.677335,casual,1,13
+990E9F8099598255,classic_bike,7/20/2023 17:07:37,7/20/2023 17:21:08,Halsted St & Clybourn Ave,331,Ashland Ave & Wrightwood Ave,13296,41.909668,-87.648128,41.92883,-87.668507,member,1,13
+7282B36804846527,electric_bike,1/14/2023 15:03:14,1/14/2023 15:23:28,Halsted St & Clybourn Ave,331,Southport Ave & Belmont Ave,13229,41.909679,-87.64800967,41.93947775,-87.66374767,member,1,20
+DF304A10560E516F,classic_bike,4/5/2023 17:37:28,4/5/2023 17:53:49,Halsted St & Clybourn Ave,331,Southport Ave & Belmont Ave,13229,41.909668,-87.648128,41.93947775,-87.66374767,member,1,16
+DE58C821D51891D2,classic_bike,5/22/2023 7:40:25,5/22/2023 7:56:34,Halsted St & Clybourn Ave,331,Southport Ave & Belmont Ave,13229,41.909668,-87.648128,41.93947775,-87.66374767,member,1,16
+AD6CC6D9704DACC7,classic_bike,11/1/2023 21:45:36,11/1/2023 22:04:12,Halsted St & Clybourn Ave,331,Southport Ave & Belmont Ave,13229,41.909668,-87.648128,41.93947775,-87.66374767,member,1,18
+81BC3A37AC9CA6BC,electric_bike,5/13/2023 10:08:05,5/13/2023 10:20:44,Halsted St & Clybourn Ave,331,Wood St & Augusta Blvd,657,41.9096514,-87.64811266,41.899181,-87.6722,member,1,12
+7FF5F6450B0007B5,classic_bike,8/2/2023 21:04:37,8/2/2023 21:22:34,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,17
+D7A2DE5F728298E5,classic_bike,4/29/2023 20:58:39,4/29/2023 21:19:39,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,21
+8FD9B47BD943CAD3,classic_bike,6/19/2023 22:06:24,6/19/2023 22:26:51,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,20
+4A2856086A6C2928,electric_bike,8/20/2023 2:37:02,8/20/2023 2:56:07,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.90967783,-87.6481275,41.961004,-87.649603,member,1,19
+F6EB2433E6C10A49,electric_bike,11/13/2023 20:47:20,11/13/2023 21:02:26,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.9096375,-87.64811417,41.961004,-87.649603,member,1,15
+816B655964F69DAF,classic_bike,10/21/2023 21:02:31,10/21/2023 21:24:18,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,21
+EF5A575602877286,electric_bike,4/19/2023 18:23:36,4/19/2023 18:43:43,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.90949333,-87.64810117,41.961004,-87.649603,member,1,20
+09B793C34026530E,classic_bike,9/16/2023 15:48:25,9/16/2023 16:16:07,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,27
+1FC2A7238EB119CB,classic_bike,4/15/2023 20:55:59,4/15/2023 21:21:44,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,25
+6F4C41F2AB9F13CC,classic_bike,5/12/2023 20:34:52,5/12/2023 21:00:34,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,25
+0E513E8DFD64B0F9,classic_bike,10/27/2023 21:25:12,10/27/2023 21:43:34,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,18
+9F84EAC0BA79C17B,classic_bike,7/7/2023 20:45:34,7/7/2023 21:04:23,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,18
+1C8D1AFD3E3A140C,classic_bike,9/29/2023 21:04:00,9/29/2023 21:23:13,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,19
+27D0F64DE506F74B,classic_bike,9/22/2023 20:50:11,9/22/2023 21:11:46,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,21
+4BF88115443F40D7,classic_bike,8/23/2023 20:53:45,8/23/2023 21:12:25,Halsted St & Clybourn Ave,331,Clarendon Ave & Junior Ter,13389,41.909668,-87.648128,41.961004,-87.649603,member,1,18
+E749B0262458D6FE,classic_bike,10/21/2023 13:39:48,10/21/2023 14:03:52,Halsted St & Clybourn Ave,331,Throop St & Taylor St,13139,41.909668,-87.648128,41.868968,-87.659141,member,1,24
+018D6BF7E2A53DF6,classic_bike,4/15/2023 19:18:25,4/15/2023 19:37:18,Halsted St & Clybourn Ave,331,Ashland Ave & Chicago Ave,13247,41.909668,-87.648128,41.89595436,-87.66772807,casual,1,18
+12D13A575E71060D,classic_bike,5/25/2023 20:27:26,5/25/2023 20:40:30,Halsted St & Clybourn Ave,331,Ashland Ave & Chicago Ave,13247,41.909668,-87.648128,41.89595436,-87.66772807,casual,1,13
+A1995F487A167904,classic_bike,2/19/2023 16:09:37,2/19/2023 16:31:18,Halsted St & Clybourn Ave,331,LaSalle St & Washington St,13006,41.909668,-87.648128,41.882664,-87.63253,casual,1,21
+0462F3404D49C452,electric_bike,8/29/2023 8:40:07,8/29/2023 8:47:06,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.90969944,-87.64815688,41.891578,-87.648384,casual,1,6
+FDA88FF380844533,electric_bike,5/19/2023 14:47:40,5/19/2023 14:55:51,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.90951567,-87.6481135,41.891578,-87.648384,casual,1,8
+CF1B50817DD78D2D,classic_bike,6/24/2023 15:55:31,6/24/2023 16:02:52,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,member,1,7
+5735774888093E9A,classic_bike,10/1/2023 9:56:18,10/1/2023 10:09:35,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,member,1,13
+2A62F0E9DBD6660B,classic_bike,10/24/2023 19:01:47,10/24/2023 19:11:15,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,member,1,9
+6ED197381CDD4CE2,classic_bike,7/6/2023 22:43:26,7/6/2023 22:52:04,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,casual,1,8
+211570C37430AB9F,classic_bike,9/26/2023 15:44:46,9/26/2023 15:56:40,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,casual,1,11
+9E392338E3333761,classic_bike,3/30/2023 16:18:54,3/30/2023 16:28:56,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,member,1,10
+F156D908B5FD3147,classic_bike,4/11/2023 15:23:11,4/11/2023 15:35:27,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,casual,1,12
+808666327EF07AEB,electric_bike,3/19/2023 17:29:12,3/19/2023 17:36:17,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.90952317,-87.64810933,41.891578,-87.648384,member,1,7
+14EF25C6F0A92D90,classic_bike,10/17/2023 18:59:16,10/17/2023 19:07:50,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,casual,1,8
+EA4C1FCE5910BADE,classic_bike,1/14/2023 7:34:36,1/14/2023 12:00:41,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,member,1,266
+6B30E4CE6A958609,electric_bike,10/5/2023 15:36:04,10/5/2023 15:42:16,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.90965917,-87.6481025,41.891578,-87.648384,casual,1,6
+40638E0FFC472D65,electric_bike,9/30/2023 21:50:20,9/30/2023 21:56:01,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.90967846,-87.64811921,41.891578,-87.648384,casual,1,5
+AF19B20ABF126EC4,classic_bike,12/11/2022 8:32:00,12/11/2022 8:41:00,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,member,1,9
+9EA73D53F7204328,classic_bike,4/29/2023 19:43:57,4/29/2023 19:58:28,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,casual,1,14
+F68623C094675889,classic_bike,6/6/2023 19:31:22,6/6/2023 19:38:27,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,casual,1,7
+1BF282AFE013CDCF,classic_bike,4/13/2023 21:24:23,4/13/2023 21:34:14,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,member,1,9
+B3A9AEE016BEA64D,classic_bike,6/28/2023 16:05:11,6/28/2023 16:25:15,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.909668,-87.648128,41.891578,-87.648384,casual,1,20
+8D42D024D6E91B40,electric_bike,3/3/2023 18:19:31,3/3/2023 18:28:11,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.90955293,-87.64815927,41.891578,-87.648384,member,1,8
+4A1B54D4EDFF8A33,electric_bike,7/20/2023 18:48:11,7/20/2023 18:55:35,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.9094925,-87.64818017,41.891578,-87.648384,casual,1,7
+4751F682F4C54262,electric_bike,6/19/2023 14:20:48,6/19/2023 14:27:59,Halsted St & Clybourn Ave,331,Milwaukee Ave & Grand Ave,13033,41.90957654,-87.64812422,41.891578,-87.648384,casual,1,7
+D89CB8699EF9F922,electric_bike,12/11/2022 18:08:00,12/11/2022 18:19:00,Halsted St & Clybourn Ave,331,Mies van der Rohe Way & Chestnut St,15529,41.90958345,-87.64814568,41.89858665,-87.62191523,member,1,11
+829E85287DCC580C,classic_bike,5/23/2023 22:02:11,5/23/2023 22:13:25,Halsted St & Clybourn Ave,331,Ashland Ave & Augusta Blvd,13248,41.909668,-87.648128,41.899643,-87.6677,member,1,11
+2771C7BC9CC01CAE,classic_bike,8/7/2023 20:57:57,8/7/2023 21:15:08,Halsted St & Clybourn Ave,331,California Ave & Cortez St,17660,41.909668,-87.648128,41.900363,-87.696704,member,1,17
+ED680E288A22B8C4,electric_bike,9/3/2023 18:25:31,9/3/2023 18:40:10,Halsted St & Clybourn Ave,331,California Ave & Cortez St,17660,41.90959656,-87.64814758,41.900363,-87.696704,member,1,14
+FFF1C850E80BAC7B,electric_bike,4/6/2023 14:38:29,4/6/2023 14:54:36,Halsted St & Clybourn Ave,331,California Ave & Cortez St,17660,41.90968072,-87.64811719,41.900363,-87.696704,casual,1,16
+EC9D05481A4364F6,classic_bike,10/17/2023 16:52:30,10/17/2023 17:13:15,Halsted St & Clybourn Ave,331,California Ave & Cortez St,17660,41.909668,-87.648128,41.900363,-87.696704,member,1,20
+AFE5ECB9C738B2DF,electric_bike,6/28/2023 11:32:10,6/28/2023 11:44:05,Halsted St & Clybourn Ave,331,Damen Ave & Chicago Ave,13132,41.90962732,-87.64815617,41.895769,-87.67722,member,1,11
