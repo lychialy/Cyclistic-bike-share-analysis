@@ -22,7 +22,22 @@ There were three questions that I had to focus on:
    Casual riders may find annual memberships more appealing due to cost savings over time, if they use the bikes frequently. The appeal of unlimited rides, access to bikes at anytime, and not needing to worry about bike maintenace. 
    
 5. How can Cyclistic use digital media to influence casual riders to become members?
-   Cyclistic could leverage digital media by promoting the finacial benefits and the convenience of annual memberships. They could run ads for positive impacts of bike riding, they can emphasize how beneficial it is for the the environment and body(these advantages could entice more users) 
+   Cyclistic could leverage digital media by promoting the finacial benefits and the convenience of annual memberships. They could run ads for positive impacts of bike riding, they can emphasize how beneficial it is for the the environment and body(these advantages could entice more users)
+   
+## Weekly Usage Analysis
+It was also important to measure the weekly usage of bikes. 
+| Day of week | Ride count|
+|-------------|-------------|
+| Monday      | 248621      |
+| Tuesday     | 240875      |
+| Wednesday   | 269896      |
+| Thursday    | 269225      |
+| Friday      | 279049      |
+| Saturday    | 269062      |
+| Sunday      | 295060      |
+
+This table shows the total bike usage for each day of the week. 
+For more details, see the [weekly usage data](https://github.com/lychialy/Cyclistic-bike-share-analysis/blob/main/Days_week_usage%20-%20day_of_week_analysis.csv).
 
 ### Monthly Analysis
 
