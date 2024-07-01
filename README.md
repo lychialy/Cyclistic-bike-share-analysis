@@ -40,7 +40,7 @@ Casual users have longer average ride duration compared to members. Indicating t
 
 Found classic bikes as the most used among customers, followed by electric bikes, and then docked bikes. Knowing this helps with managing inventory and maintenance. Understanding which bike types are most utilized provides valuable insights into customer preferences and marketing strategies.
 
-[Bike Types](https://github.com/lychialy/Cyclistic-bike-share-analysis/blob/main/2024-07-01%20(1).png?raw=true)
+![Bike Types](https://github.com/lychialy/Cyclistic-bike-share-analysis/blob/main/2024-07-01%20(1).png?raw=true)
 
 Link to [Tableau Dashboard with all visuals](https://public.tableau.com/views/CyclisticCaseStudyCapstone_17196371711750/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
